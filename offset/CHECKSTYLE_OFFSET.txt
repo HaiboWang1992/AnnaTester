@@ -1,0 +1,2563 @@
+Path: FinalClass/InputFinalClassInnerAndNestedClass.java
+TypeName,-2
+OneTopLevelClass,-1
+Indentation,73
+Path: WhitespaceAround/InputWhitespaceAroundGenerics.java
+RightCurlyAlone,-1
+OneTopLevelClass,-4
+MemberName,-1
+Indentation,2
+Path: NPathComplexity/InputNPathComplexityOverflow.java
+WhitespaceAround,-20
+LeftCurly,-1
+Indentation,163
+Path: NestedForDepth/InputNestedForDepth.java
+Indentation,25
+Path: NeedBraces/InputNeedBracesTestItWithAllowsOn.java
+OneStatementPerLine,2
+Indentation,49
+Path: ModifiedControlVariable/InputModifiedControlVariableEnhancedForLoopVariable2.java
+Indentation,16
+Path: ParameterName/InputParameterName.java
+LineLength,1
+LocalVariableName,-1
+SummaryJavadoc,-4
+OneTopLevelClass,-2
+LeftCurly,-6
+Indentation,34
+Path: MissingOverride/InputMissingOverrideGoodOverrideFromOther.java
+OneTopLevelClass,-4
+AbbreviationAsWordInName,-2
+Indentation,7
+Path: MissingOverride/InputMissingOverrideGoodOverrideFromObject.java
+TypeName,-2
+OneTopLevelClass,-3
+Indentation,16
+Path: SimplifyBooleanExpression/InputSimplifyBooleanExpression.java
+OneStatementPerLine,1
+MissingJavadocMethod,-1
+Indentation,67
+Path: EmptyCatchBlock/InputEmptyCatchBlockDefaultLF.java
+InvalidJavadocPosition,-1
+Indentation,173
+EmptyCatchBlock,11
+Path: MissingJavadocType/InputMissingJavadocTypeScopeInnerClasses2.java
+RightCurlyAlone,-3
+LeftCurly,-4
+Indentation,20
+Path: IllegalInstantiation/InputIllegalInstantiationNoPackage.java
+EmptyLineSeparator,1
+Indentation,11
+Path: SingleSpaceSeparator/InputSingleSpaceSeparatorErrors.java
+EmptyLineSeparator,2
+Indentation,26
+Path: ImportOrder/InputImportOrderNoGapBetweenStaticImports.java
+Indentation,3
+Path: MissingJavadocMethod/InputMissingJavadocMethodIgnoreNameRegex.java
+Indentation,13
+Path: AvoidEscapedUnicodeCharacters/InputAvoidEscapedUnicodeCharacters.java
+LineLength,1
+EmptyLineSeparator,4
+IllegalTokenText,-1
+AvoidEscapedUnicodeCharacters,32
+Indentation,94
+Path: CyclomaticComplexity/InputCyclomaticComplexitySwitchBlocks2.java
+LineLength,2
+Indentation,19
+Path: AbbreviationAsWordInName/InputAbbreviationAsWordInNameIgnoreStaticKeepStaticFinal.java
+MultipleVariableDeclarations,-1
+ModifierOrder,1
+EmptyLineSeparator,2
+Indentation,133
+Path: RightCurly/InputRightCurlyTestOptSameBlocksWithSemi.java
+EmptyLineSeparator,-17
+NoWhitespaceBefore,4
+Indentation,83
+Path: TypecastParenPad/InputTypecastParenPadWhitespace.java
+TypeName,-2
+EmptyBlock,1
+MultipleVariableDeclarations,-2
+WhitespaceAfter,4
+WhitespaceAround,3
+OneTopLevelClass,-2
+AbbreviationAsWordInName,-1
+Indentation,95
+ArrayTypeStyle,-1
+Path: EmptyForIteratorPad/InputEmptyForIteratorPad2.java
+RightCurlyAlone,-1
+Indentation,2
+Path: MissingOverride/InputMissingOverrideGoodOverrideFromObjectJava5.java
+TypeName,-2
+OneTopLevelClass,-3
+Indentation,16
+Path: NeedBraces/InputNeedBracesTestNotAllowSingleLineLambda.java
+LineLength,2
+EmptyLineSeparator,3
+WhitespaceAfter,1
+MethodName,5
+ParenPad,-2
+Indentation,30
+Path: CustomImportOrder/InputCustomImportOrderImportsContainingJava.java
+Indentation,3
+Path: WhitespaceAround/InputWhitespaceAroundStartOfTheLine.java
+Indentation,6
+Path: NPathComplexity/InputNPathComplexityDefault.java
+LineLength,2
+EmptyBlock,4
+WhitespaceAround,-4
+EmptyLineSeparator,2
+WhitespaceAfter,6
+LeftCurly,-1
+Indentation,93
+Path: HiddenField/InputHiddenField1.java
+EmptyLineSeparator,2
+SummaryJavadoc,-14
+OneTopLevelClass,-13
+ParameterName,-1
+MemberName,-5
+Indentation,42
+OverloadMethodsDeclarationOrder,-1
+Path: JavadocParagraph/InputJavadocParagraphCorrect.java
+EmptyLineSeparator,1
+WhitespaceAround,1
+OneTopLevelClass,-1
+Indentation,20
+Path: RightCurly/InputRightCurlyLeftTestShouldStartLine2.java
+RightCurlySame,-4
+TypeName,-2
+OneStatementPerLine,1
+SummaryJavadoc,-1
+OneTopLevelClass,-8
+MemberName,-1
+MethodName,-2
+NoWhitespaceBefore,2
+Indentation,56
+Path: RegexpSinglelineJava/InputRegexpSinglelineJavaTrailingComment11.java
+EmptyLineSeparator,1
+WhitespaceAround,1
+Indentation,13
+Path: RightCurly/InputRightCurlyTestIsAloneLambda.java
+LineLength,2
+EmptyLineSeparator,1
+MethodName,8
+Indentation,40
+Path: SingleLineJavadoc/InputSingleLineJavadoc.java
+Indentation,31
+Path: SuperClone/InputSuperCloneInnerAndWithArguments.java
+OneTopLevelClass,-7
+LeftCurly,-2
+MissingJavadocMethod,1
+Indentation,10
+Path: JavadocContentLocation/InputJavadocContentLocationDefault.java
+SummaryJavadoc,1
+Indentation,13
+Path: MemberName/InputMemberName2.java
+EmptyLineSeparator,1
+Indentation,11
+Path: MissingDeprecated/InputMissingDeprecatedAbovePackage.java
+InvalidJavadocPosition,-2
+Indentation,3
+Path: JavadocParagraph/InputJavadocParagraphIncorrect.java
+EmptyLineSeparator,1
+WhitespaceAround,1
+Indentation,17
+Path: MissingJavadocType/InputMissingJavadocTypePublicOnly2.java
+RightCurlyAlone,-1
+WhitespaceAround,2
+LeftCurly,-5
+Indentation,31
+Path: EmptyBlock/InputEmptyBlockSemanticInvalid.java
+UpperEll,-1
+EmptyBlock,2
+EmptyLineSeparator,5
+Indentation,53
+Path: JavadocStyle/InputJavadocStyleFirstSentenceOne.java
+LineLength,1
+Indentation,29
+Path: SeparatorWrap/InputSeparatorWrapForTestComma.java
+TypeName,-1
+OneTopLevelClass,-5
+ParameterName,-1
+AbbreviationAsWordInName,-2
+Indentation,16
+EmptyCatchBlock,-1
+Path: EqualsAvoidNull/InputEqualsAvoidNullNested.java
+LineLength,1
+Indentation,30
+Path: AvoidEscapedUnicodeCharacters/InputAvoidEscapedUnicodeCharacters4.java
+LineLength,1
+EmptyLineSeparator,4
+IllegalTokenText,-1
+AvoidEscapedUnicodeCharacters,32
+Indentation,94
+Path: MemberName/InputMemberNameInner.java
+EmptyLineSeparator,2
+WhitespaceAround,1
+NoWhitespaceBefore,2
+Indentation,35
+Path: EmptyBlock/InputEmptyBlockAnnotationDefaultKeyword.java
+Indentation,1
+Path: MissingOverride/InputMissingOverrideNotOverride.java
+Indentation,10
+Path: DeclarationOrder/InputDeclarationOrderOnlyModifiers.java
+EmptyLineSeparator,2
+OneTopLevelClass,-1
+MemberName,-2
+Indentation,48
+Path: NeedBraces/InputNeedBracesTestSingleLineCaseDefault2.java
+EmptyLineSeparator,1
+OneTopLevelClass,-2
+Indentation,14
+Path: MethodParamPad/InputMethodParamPadWhitespaceAround.java
+OneTopLevelClass,-2
+LeftCurly,-1
+Indentation,11
+Path: HiddenField/InputHiddenFieldReorder.java
+EmptyLineSeparator,4
+SummaryJavadoc,-2
+OneTopLevelClass,-2
+Indentation,41
+Path: MissingDeprecated/InputMissingDeprecatedSpecialCase.java
+InvalidJavadocPosition,-2
+Indentation,34
+Path: IllegalCatch/InputIllegalCatch3.java
+EmptyBlock,2
+Indentation,17
+EmptyCatchBlock,4
+Path: NoWhitespaceBefore/InputNoWhitespaceBeforeAtStartOfTheLine2.java
+MethodName,1
+Indentation,14
+Path: AbbreviationAsWordInName/InputAbbreviationAsWordInNameType2.java
+LocalVariableName,-1
+MultipleVariableDeclarations,-1
+OneTopLevelClass,-22
+AbbreviationAsWordInName,-13
+Indentation,3
+Path: JavadocMissingWhitespaceAfterAsterisk/InputJavadocMissingWhitespaceAfterAsteriskValidWithTab.java
+FileTabCharacter,-1
+JavadocTagContinuationIndentation,-1
+JavadocParagraph,-1
+Indentation,29
+Path: RightCurly/InputRightCurlyTestNewTokensAlone.java
+NoWhitespaceBefore,4
+Indentation,28
+Path: MissingJavadocMethod/InputMissingJavadocMethodSetterGetter.java
+OneTopLevelClass,-1
+LeftCurly,-8
+Indentation,29
+Path: WhitespaceAround/InputWhitespaceAround3.java
+OneTopLevelClass,-2
+LeftCurly,-1
+Indentation,11
+Path: IllegalThrows/InputIllegalThrowsIgnoreMethodNames.java
+LeftCurly,-2
+Indentation,7
+Path: StringLiteralEquality/InputStringLiteralEquality.java
+EmptyBlock,5
+LeftCurly,-3
+Indentation,13
+Path: JavaNCSS/InputJavaNCSS3.java
+MultipleVariableDeclarations,-2
+EmptyLineSeparator,2
+WhitespaceAround,1
+OneTopLevelClass,-2
+MemberName,-1
+Indentation,30
+Path: ClassTypeParameterName/InputClassTypeParameterName.java
+OneTopLevelClass,-6
+ClassTypeParameterName,-3
+LeftCurly,-1
+MethodTypeParameterName,-4
+Indentation,5
+InterfaceTypeParameterName,-1
+Path: HideUtilityClassConstructor/InputHideUtilityClassConstructor.java
+Indentation,6
+Path: JavadocTagContinuationIndentation/InputJavadocTagContinuationIndentationGuavaFalsePositive.java
+Indentation,6
+Path: JavadocStyle/InputJavadocStyleFirstSentenceFormatOne.java
+LineLength,1
+Indentation,29
+Path: ReturnCount/InputReturnCountSwitches2.java
+WhitespaceAround,1
+OneTopLevelClass,-1
+Indentation,63
+Path: ImportOrder/InputImportOrder_NoFailureForRedundantImports.java
+Indentation,3
+Path: IllegalInstantiation/InputIllegalInstantiationSemantic.java
+EmptyLineSeparator,4
+WhitespaceAround,2
+LeftCurly,-8
+Indentation,70
+Path: InnerTypeLast/InputInnerTypeLastClassRootClass2.java
+EmptyLineSeparator,1
+OneTopLevelClass,-1
+LeftCurly,-1
+MemberName,-1
+Indentation,2
+Path: JavadocVariable/InputJavadocVariablePublicOnly2.java
+WhitespaceAround,2
+LeftCurly,-5
+Indentation,32
+Path: TypeName/InputTypeName2.java
+TypeName,-4
+EmptyLineSeparator,-2
+OneTopLevelClass,-1
+Indentation,3
+Path: OperatorWrap/InputOperatorWrap5.java
+TypeName,-2
+MissingSwitchDefault,-1
+OneTopLevelClass,-5
+Indentation,20
+Path: RegexpSinglelineJava/InputRegexpSinglelineJavaSemantic5.java
+UpperEll,-1
+EmptyBlock,2
+EmptyLineSeparator,6
+WhitespaceAround,2
+LeftCurly,-8
+Indentation,106
+EmptyCatchBlock,2
+Path: ArrayTrailingComma/InputArrayTrailingComma.java
+EmptyLineSeparator,1
+Indentation,18
+Path: ParameterName/InputParameterNameOverrideAnnotationNoNPE.java
+OneTopLevelClass,-1
+AbbreviationAsWordInName,-1
+Indentation,7
+Path: LambdaParameterName/InputLambdaParameterName.java
+LineLength,1
+EmptyLineSeparator,1
+MethodName,4
+Indentation,22
+Path: UnnecessaryParentheses/InputUnnecessaryParenthesesOperatorsAndCasts.java
+MultipleVariableDeclarations,-3
+WhitespaceAfter,7
+InvalidJavadocPosition,-1
+Indentation,105
+Path: JavadocVariable/InputJavadocVariableNoJavadoc4.java
+EmptyLineSeparator,4
+OneTopLevelClass,-1
+LeftCurly,-1
+Indentation,64
+Path: EmptyBlock/InputEmptyBlockSemantic2Statement.java
+WhitespaceAround,-4
+Indentation,33
+Path: RightCurly/InputRightCurlyTestTryWithResourceAlone.java
+RightCurlySame,-2
+WhitespaceAround,-2
+LeftCurly,-1
+Indentation,31
+Path: ConstantName/InputConstantNameSimple1.java
+LineLength,1
+LocalVariableName,-1
+SummaryJavadoc,-4
+OneTopLevelClass,-2
+Indentation,48
+Path: JavadocStyle/InputJavadocStyleFirstSentenceFour.java
+EmptyLineSeparator,-1
+InvalidJavadocPosition,-1
+Indentation,37
+Path: NPathComplexity/InputNPathComplexity.java
+RightCurlySame,-2
+WhitespaceAround,-8
+Indentation,122
+Path: JavadocStyle/InputJavadocStyleEnumCtorScopeIsPrivate.java
+MethodParamPad,1
+Indentation,7
+Path: ImportOrder/InputImportOrderSortStaticImportsAlphabetically1.java
+Indentation,3
+Path: MissingOverride/InputMissingOverrideBadOverrideFromOtherJava5.java
+OneTopLevelClass,-4
+AbbreviationAsWordInName,-2
+Indentation,7
+Path: ConstantName/InputConstantNameInterfaceIgnorePublic.java
+OneTopLevelClass,-1
+Indentation,2
+Path: ModifiedControlVariable/InputModifiedControlVariableBothForLoops.java
+EmptyLineSeparator,2
+WhitespaceAround,2
+OneTopLevelClass,-2
+Indentation,82
+Path: NoFinalizer/InputNoFinalizerHasFinalizer.java
+WhitespaceAround,1
+LeftCurly,-1
+Indentation,7
+Path: JavadocStyle/InputJavadocStyleNoJavadoc.java
+EmptyLineSeparator,4
+OneTopLevelClass,-1
+LeftCurly,-1
+Indentation,64
+Path: SeparatorWrap/InputSeparatorWrapForTestDot.java
+TypeName,-1
+OneTopLevelClass,-5
+ParameterName,-1
+Indentation,16
+EmptyCatchBlock,-1
+Path: AnnotationUseStyle/InputAnnotationUseStyleWithTrailingCommaIgnore.java
+WhitespaceAround,1
+OneTopLevelClass,-2
+InvalidJavadocPosition,-1
+NoWhitespaceBefore,2
+Indentation,11
+Path: ArrayTypeStyle/InputArrayTypeStyle.java
+EmptyLineSeparator,2
+LeftCurly,-4
+Indentation,32
+ArrayTypeStyle,-8
+Path: EmptyBlock/InputEmptyBlockSemantic.java
+UpperEll,-1
+EmptyBlock,4
+EmptyLineSeparator,5
+Indentation,53
+Path: WhitespaceAround/InputWhitespaceAroundSwitch.java
+Indentation,13
+Path: LeftCurly/InputLeftCurlyDefaultTestNl.java
+Indentation,47
+Path: JavadocStyle/InputJavadocStyle5.java
+LineLength,1
+EmptyLineSeparator,-1
+JavadocMethod,4
+LeftCurly,-5
+ClassTypeParameterName,-1
+InvalidJavadocPosition,-1
+MethodTypeParameterName,-3
+NoWhitespaceBefore,2
+Indentation,104
+Path: LeftCurly/InputLeftCurlyTestDefault.java
+Indentation,44
+Path: AbbreviationAsWordInName/InputAbbreviationAsWordInNameType6.java
+LocalVariableName,-1
+MultipleVariableDeclarations,-1
+OneTopLevelClass,-22
+AbbreviationAsWordInName,-13
+Indentation,3
+Path: MissingOverride/InputMissingOverrideGoodOverride.java
+EmptyLineSeparator,1
+WhitespaceAround,6
+Indentation,10
+Path: ConstantName/InputConstantNameInner.java
+EmptyLineSeparator,2
+WhitespaceAround,1
+NoWhitespaceBefore,2
+Indentation,35
+Path: CustomImportOrder/InputCustomImportOrder_MultiplePatternMatches3.java
+Indentation,3
+Path: DeclarationOrder/InputDeclarationOrderOnlyConstructors.java
+EmptyLineSeparator,2
+OneTopLevelClass,-1
+LeftCurly,-2
+MemberName,-2
+Indentation,44
+Path: LeftCurly/InputLeftCurlyWithEmojiNl.java
+EmptyBlock,4
+NoWhitespaceBeforeCaseDefaultColon,-1
+OneTopLevelClass,-1
+AvoidEscapedUnicodeCharacters,11
+MethodName,1
+Indentation,45
+EmptyCatchBlock,1
+Path: RightCurly/InputRightCurlyTestForceLineBreakBefore.java
+TypeName,-2
+EmptyLineSeparator,1
+OneTopLevelClass,-4
+Indentation,51
+Path: RegexpSinglelineJava/InputRegexpSinglelineJavaTrailingComment8.java
+EmptyLineSeparator,1
+WhitespaceAround,1
+Indentation,13
+Path: RegexpSinglelineJava/InputRegexpSinglelineJavaSemantic4.java
+UpperEll,-1
+EmptyBlock,2
+EmptyLineSeparator,6
+WhitespaceAround,2
+LeftCurly,-8
+Indentation,106
+EmptyCatchBlock,2
+Path: HideUtilityClassConstructor/InputHideUtilityClassConstructorAbstractSerializable.java
+EmptyLineSeparator,1
+Indentation,3
+Path: NoClone/InputNoClone.java
+OneTopLevelClass,-7
+LeftCurly,-5
+MissingJavadocMethod,1
+Indentation,4
+Path: JavadocStyle/InputJavadocStyle4.java
+LineLength,1
+JavadocMethod,4
+ClassTypeParameterName,-1
+LeftCurly,-4
+InvalidJavadocPosition,-1
+MethodTypeParameterName,-3
+NoWhitespaceBefore,2
+Indentation,106
+Path: JavadocStyle/InputJavadocStyleFirstSentenceFormatTwo.java
+LeftCurly,-1
+NoWhitespaceBefore,2
+Indentation,22
+Path: BooleanExpressionComplexity/InputBooleanExpressionComplexity.java
+LineLength,5
+EmptyBlock,1
+WhitespaceAround,-7
+MissingJavadocMethod,-1
+Indentation,62
+Path: MissingJavadocMethod/InputMissingJavadocMethodTags.java
+EmptyLineSeparator,-1
+OneTopLevelClass,-6
+SummaryJavadoc,-27
+ParameterName,-16
+MemberName,-1
+NonEmptyAtclauseDescription,-4
+JavadocParagraph,-2
+Indentation,4
+Path: TypeName/InputTypeName6.java
+TypeName,-4
+EmptyLineSeparator,-2
+OneTopLevelClass,-1
+Indentation,3
+Path: LeftCurly/InputLeftCurlyTestMissingBraces.java
+OneStatementPerLine,2
+Indentation,55
+Path: TodoComment/InputTodoCommentSimple.java
+FileTabCharacter,-3
+LineLength,1
+LocalVariableName,-1
+SummaryJavadoc,-4
+OneTopLevelClass,-2
+Indentation,48
+Path: MissingOverride/InputMissingOverrideBadOverrideFromObjectJava5.java
+TypeName,-1
+OneTopLevelClass,-2
+Indentation,16
+Path: AbstractClassName/InputAbstractClassNameType.java
+OneTopLevelClass,-5
+Indentation,3
+Path: MissingJavadocType/InputMissingJavadocTypeNoJavadoc3.java
+EmptyLineSeparator,4
+OneTopLevelClass,-1
+LeftCurly,-1
+Indentation,64
+Path: HiddenField/InputHiddenField8.java
+EmptyLineSeparator,2
+SummaryJavadoc,-14
+OneTopLevelClass,-13
+LeftCurly,-1
+ParameterName,-1
+MemberName,-5
+Indentation,44
+OverloadMethodsDeclarationOrder,-1
+Path: UnnecessarySemicolonInTryWithResources/InputUnnecessarySemicolonInTryWithResourcesNoBraceAfterAllowed.java
+WhitespaceAround,-8
+Indentation,17
+Path: MissingOverride/InputMissingOverrideBadAnnotationJava5.java
+EmptyLineSeparator,1
+WhitespaceAround,4
+Indentation,7
+Path: TypeName/InputTypeName.java
+TypeName,-4
+EmptyLineSeparator,-2
+OneTopLevelClass,-1
+Indentation,3
+Path: RightCurly/InputRightCurlyTestSingleLineClass.java
+RightCurlySame,-1
+OneTopLevelClass,-1
+MemberName,-1
+Indentation,9
+Path: RightCurly/InputRightCurlyTestEndOfFile.java
+Indentation,5
+Path: JavadocStyle/InputJavadocStyleDefaultSettingsThree.java
+JavadocMethod,4
+ClassTypeParameterName,-1
+LeftCurly,-4
+MethodTypeParameterName,-3
+Indentation,25
+Path: DefaultComesLast/InputDefaultComesLastSkipIfLastAndSharedWithCase.java
+OneTopLevelClass,-1
+Indentation,111
+Path: RightCurly/InputRightCurlyTestSinglelineIfBlocks.java
+Indentation,13
+Path: JavadocVariable/InputJavadocVariableTags.java
+EmptyLineSeparator,-1
+OneTopLevelClass,-4
+SummaryJavadoc,-25
+ParameterName,-15
+LeftCurly,-1
+MemberName,-1
+NonEmptyAtclauseDescription,-3
+JavadocParagraph,-2
+Indentation,6
+Path: WhitespaceAround/InputWhitespaceAroundAllowEmptyLambdaExpressions2.java
+EmptyLineSeparator,1
+MethodName,5
+Indentation,21
+Path: RegexpSinglelineJava/InputRegexpSinglelineJavaTrailingComment.java
+EmptyLineSeparator,1
+WhitespaceAround,1
+Indentation,13
+Path: SingleSpaceSeparator/InputSingleSpaceSeparatorChildNodes.java
+EmptyLineSeparator,1
+Indentation,5
+Path: OperatorWrap/InputOperatorWrap1.java
+TypeName,-2
+MissingSwitchDefault,-1
+OneTopLevelClass,-5
+Indentation,20
+OperatorWrap,-5
+Path: SingleSpaceSeparator/InputSingleSpaceSeparatorStartOfTheLine.java
+EmptyLineSeparator,1
+Indentation,4
+Path: MultipleStringLiterals/InputMultipleStringLiterals4.java
+EmptyLineSeparator,1
+Indentation,22
+Path: UnnecessaryParentheses/InputUnnecessaryParentheses15Extensions.java
+TypeName,-1
+OneTopLevelClass,-4
+AbbreviationAsWordInName,-1
+Indentation,3
+Path: RightCurly/InputRightCurlyTestOptionAloneOrSingleLine.java
+LineLength,1
+EmptyLineSeparator,4
+WhitespaceAround,4
+MethodName,1
+Indentation,87
+Path: AtclauseOrder/InputAtclauseOrderIncorrectCustom.java
+EmptyLineSeparator,1
+WhitespaceAround,1
+OneTopLevelClass,-2
+SummaryJavadoc,-1
+Indentation,50
+Path: IllegalCatch/InputIllegalCatch4.java
+EmptyBlock,2
+Indentation,17
+EmptyCatchBlock,2
+Path: JavadocStyle/InputJavadocStyleDefaultSettingsFour.java
+EmptyLineSeparator,-1
+InvalidJavadocPosition,-1
+Indentation,37
+Path: InnerAssignment/InputInnerAssignment.java
+OneStatementPerLine,3
+WhitespaceAround,-4
+LeftCurly,-1
+Indentation,160
+Path: ParameterName/InputParameterNameLambda.java
+LineLength,1
+EmptyLineSeparator,1
+MethodName,4
+Indentation,22
+Path: JavadocMissingLeadingAsterisk/InputJavadocMissingLeadingAsteriskIncorrect.java
+OneTopLevelClass,-1
+Indentation,11
+Path: RightCurly/InputRightCurlyTestInvalidOption.java
+RightCurlySame,-1
+OneTopLevelClass,-1
+MemberName,-1
+Indentation,9
+Path: AnnotationLocation/InputAnnotationLocationMultiple.java
+Indentation,20
+Path: MissingDeprecated/InputMissingDeprecatedMethod.java
+Indentation,5
+Path: RegexpSinglelineJava/InputRegexpSinglelineJavaTrailingComment7.java
+EmptyLineSeparator,1
+WhitespaceAround,1
+Indentation,13
+Path: SeparatorWrap/InputSeparatorWrapForArrayDeclarator.java
+EmptyLineSeparator,1
+Indentation,5
+Path: MissingJavadocMethod/InputMissingJavadocMethodScopeInnerInterfaces.java
+Indentation,48
+Path: JavadocVariable/InputJavadocVariableNoJavadocNeededInLambda.java
+EmptyLineSeparator,1
+MethodName,2
+Indentation,13
+Path: MethodName/InputMethodNameEqualClassName.java
+WhitespaceAround,1
+OneTopLevelClass,-2
+MethodName,-4
+Indentation,26
+Path: IllegalType/InputIllegalTypeTestPlainAndArraysTypes.java
+EmptyLineSeparator,1
+Indentation,17
+Path: AbstractClassName/InputAbstractClassNameVariants.java
+OneTopLevelClass,-5
+Indentation,3
+Path: TypecastParenPad/InputTypecastParenPadWhitespaceAround.java
+TypeName,-2
+OneTopLevelClass,-2
+LeftCurly,-1
+Indentation,11
+Path: EmptyForIteratorPad/InputEmptyForIteratorPad1.java
+Indentation,36
+Path: AvoidEscapedUnicodeCharacters/InputAvoidEscapedUnicodeCharacters1.java
+LineLength,1
+EmptyLineSeparator,4
+IllegalTokenText,-1
+AvoidEscapedUnicodeCharacters,32
+Indentation,94
+Path: TypeName/InputTypeName3.java
+TypeName,-4
+EmptyLineSeparator,-2
+OneTopLevelClass,-1
+Indentation,3
+Path: ReturnCount/InputReturnCountSwitches.java
+WhitespaceAround,1
+OneTopLevelClass,-1
+Indentation,63
+Path: CyclomaticComplexity/InputCyclomaticComplexity.java
+EmptyBlock,4
+WhitespaceAround,-6
+EmptyLineSeparator,2
+LeftCurly,-2
+Indentation,55
+Path: JavadocStyle/InputJavadocStyleFirstSentenceFormatFour.java
+EmptyLineSeparator,-1
+InvalidJavadocPosition,-1
+Indentation,37
+Path: ImportOrder/InputImportOrderBug.java
+Indentation,5
+Path: InvalidJavadocPosition/InputInvalidJavadocPosition.java
+CommentsIndentation,-1
+RightCurlyAlone,-1
+EmptyLineSeparator,-5
+SummaryJavadoc,-9
+OneTopLevelClass,-6
+MethodParamPad,-1
+InvalidJavadocPosition,-21
+Indentation,-2
+Path: InnerTypeLast/InputInnerTypeLastClassRootClass.java
+EmptyLineSeparator,1
+MethodParamPad,2
+Indentation,9
+Path: CyclomaticComplexity/InputCyclomaticComplexitySwitchBlocks.java
+LineLength,2
+Indentation,19
+Path: ModifiedControlVariable/InputModifiedControlVariableEnhancedForLoopVariable3.java
+Indentation,9
+Path: ImportOrder/InputImportOrderStaticGroupSeparated.java
+Indentation,5
+Path: MissingJavadocType/InputMissingJavadocTypeNoJavadoc1.java
+EmptyLineSeparator,4
+OneTopLevelClass,-1
+LeftCurly,-1
+Indentation,64
+Path: MissingJavadocType/InputMissingJavadocTypeInterfaceMemberScopeIsPublic.java
+Indentation,10
+Path: RightCurly/InputRightCurlyTestIsSameLambda.java
+LineLength,10
+EmptyLineSeparator,1
+MethodName,9
+Indentation,53
+Path: AbbreviationAsWordInName/InputAbbreviationAsWordInNameNoIgnore.java
+MultipleVariableDeclarations,-1
+ModifierOrder,1
+EmptyLineSeparator,2
+Indentation,148
+Path: RightCurly/InputRightCurlyTestTryWithResourceSame.java
+RightCurlySame,-2
+WhitespaceAround,-2
+LeftCurly,-1
+Indentation,31
+Path: SingleSpaceSeparator/InputSingleSpaceSeparatorComments2.java
+EmptyLineSeparator,1
+Indentation,9
+Path: LeftCurly/InputLeftCurlyTestNewLine3.java
+TypeName,-2
+OneStatementPerLine,1
+SummaryJavadoc,-1
+OneTopLevelClass,-8
+MemberName,-1
+MethodName,-2
+NoWhitespaceBefore,2
+Indentation,56
+Path: OperatorWrap/InputOperatorWrap4.java
+TypeName,-2
+MissingSwitchDefault,-1
+OneTopLevelClass,-5
+Indentation,20
+Path: NewlineAtEndOfFile/InputNewlineAtEndOfFileLf.java
+RightCurlyAlone,-1
+Indentation,-1
+Path: RightCurly/InputRightCurlyTestIsAloneOrSinglelineLambda.java
+LineLength,3
+EmptyLineSeparator,1
+MethodName,8
+Indentation,41
+Path: EmptyBlock/InputEmptyBlockDefault2.java
+Indentation,113
+Path: RightCurly/InputRightCurlyTestForceLineBreakBefore2.java
+TypeName,-2
+EmptyLineSeparator,1
+OneTopLevelClass,-4
+MethodName,-1
+Indentation,51
+Path: OperatorWrap/InputOperatorWrap6.java
+TypeName,-2
+MissingSwitchDefault,-1
+OneTopLevelClass,-5
+LeftCurly,-1
+Indentation,18
+Path: MagicNumber/InputMagicNumberAnnotationElement.java
+Indentation,2
+Path: NeedBraces/InputNeedBracesTestCycles.java
+Indentation,47
+Path: MagicNumber/InputMagicNumber.java
+UpperEll,-4
+MultipleVariableDeclarations,-2
+SummaryJavadoc,-3
+OneTopLevelClass,-15
+MemberName,-12
+Indentation,49
+Path: SimplifyBooleanReturn/InputSimplifyBooleanReturn.java
+OneStatementPerLine,1
+MissingJavadocMethod,-1
+Indentation,58
+Path: AbbreviationAsWordInName/InputAbbreviationAsWordInNameIgnoreStatic.java
+MultipleVariableDeclarations,-1
+ModifierOrder,1
+EmptyLineSeparator,2
+Indentation,133
+Path: AvoidInlineConditionals/InputAvoidInlineConditionals.java
+EmptyLineSeparator,1
+Indentation,19
+Path: AnnotationLocation/InputAnnotationLocationEnum.java
+OneTopLevelClass,-2
+NoWhitespaceBefore,1
+Indentation,3
+Path: IllegalTokenText/InputIllegalTokenTextTokens.java
+Indentation,22
+Path: MemberName/InputMemberNameSimple.java
+LineLength,1
+LocalVariableName,-1
+SummaryJavadoc,-4
+OneTopLevelClass,-2
+Indentation,48
+Path: JavadocTagContinuationIndentation/InputJavadocTagContinuationIndentationDescription.java
+Indentation,13
+Path: JavadocMissingWhitespaceAfterAsterisk/InputJavadocMissingWhitespaceAfterAsteriskInvalid.java
+JavadocTagContinuationIndentation,-1
+Indentation,29
+Path: InterfaceIsType/InputInterfaceIsTypeAllowMarker.java
+RightCurlyAlone,-1
+LeftCurly,-1
+Indentation,8
+Path: NeedBraces/InputNeedBracesLoopBodyFalse.java
+EmptyLineSeparator,2
+MissingJavadocMethod,-8
+ParenPad,-3
+Indentation,78
+Path: JavadocVariable/InputJavadocVariablePublicOnly.java
+WhitespaceAround,2
+LeftCurly,-5
+Indentation,32
+Path: AnnotationOnSameLine/InputAnnotationOnSameLineCheck3.java
+EmptyLineSeparator,2
+WhitespaceAfter,1
+OneTopLevelClass,-3
+Indentation,10
+Path: RightCurly/InputRightCurlyTestSameOmitOneLiners.java
+Indentation,10
+Path: DeclarationOrder/InputDeclarationOrderAvoidDuplicatesInStaticFinalFields.java
+EmptyLineSeparator,1
+Indentation,5
+Path: HiddenField/InputHiddenField7.java
+EmptyLineSeparator,2
+SummaryJavadoc,-14
+OneTopLevelClass,-13
+LeftCurly,-7
+ParameterName,-1
+MemberName,-5
+Indentation,27
+OverloadMethodsDeclarationOrder,-1
+Path: UnnecessaryParentheses/InputUnnecessaryParenthesesReturnValue.java
+MethodName,1
+Indentation,28
+Path: JavaNCSS/InputJavaNCSS.java
+MultipleVariableDeclarations,-2
+EmptyLineSeparator,2
+WhitespaceAround,1
+OneTopLevelClass,-2
+MemberName,-1
+Indentation,30
+Path: AbstractClassName/InputAbstractClassNameCustom.java
+OneTopLevelClass,-5
+Indentation,3
+Path: HideUtilityClassConstructor/InputHideUtilityClassConstructorPublic.java
+EmptyLineSeparator,1
+Indentation,7
+Path: WhitespaceAround/InputWhitespaceAroundSimple.java
+FileTabCharacter,-3
+LineLength,1
+LocalVariableName,-1
+SummaryJavadoc,-4
+OneTopLevelClass,-2
+Indentation,48
+Path: MethodName/InputMethodNamePrivateMethodsInInterfaces.java
+Indentation,10
+Path: NoArrayTrailingComma/InputNoArrayTrailingComma.java
+EmptyLineSeparator,1
+Indentation,18
+Path: InnerAssignment/InputInnerAssignmentNotInLoopContext.java
+EmptyLineSeparator,1
+Indentation,5
+Path: RightCurly/InputRightCurlyTestOptAloneOrSingleLineBlocksWithSemi.java
+EmptyLineSeparator,-17
+NoWhitespaceBefore,4
+Indentation,83
+Path: ImportOrder/InputImportOrder_Under.java
+Indentation,3
+Path: CustomImportOrder/InputCustomImportOrderNoValid.java
+Indentation,3
+Path: AvoidEscapedUnicodeCharacters/InputAvoidEscapedUnicodeCharacters3.java
+LineLength,1
+EmptyLineSeparator,4
+AvoidEscapedUnicodeCharacters,29
+IllegalTokenText,-1
+Indentation,94
+Path: NoFinalizer/InputNoFinalizerFallThrough.java
+FallThrough,27
+EmptyBlock,2
+OneStatementPerLine,2
+Indentation,395
+Path: MissingCtor/InputMissingCtor.java
+RightCurlyAlone,-1
+EmptyLineSeparator,-1
+OneTopLevelClass,-2
+Indentation,2
+Path: JavadocStyle/InputJavadocStyle9.java
+LineLength,1
+EmptyLineSeparator,-1
+JavadocMethod,4
+LeftCurly,-5
+ClassTypeParameterName,-1
+InvalidJavadocPosition,-1
+MethodTypeParameterName,-3
+NoWhitespaceBefore,2
+Indentation,104
+Path: StaticVariableName/InputStaticVariableName1.java
+LineLength,1
+LocalVariableName,-1
+SummaryJavadoc,-4
+OneTopLevelClass,-2
+Indentation,48
+Path: BooleanExpressionComplexity/InputBooleanExpressionComplexity2.java
+LineLength,5
+WhitespaceAround,-9
+MissingJavadocMethod,-1
+Indentation,62
+Path: CyclomaticComplexity/InputCyclomaticComplexitySwitchBlocks3.java
+LineLength,2
+Indentation,19
+Path: SeparatorWrap/InputSeparatorWrapForInvalidOption.java
+TypeName,-1
+OneTopLevelClass,-5
+ParameterName,-1
+AbbreviationAsWordInName,-2
+Indentation,16
+EmptyCatchBlock,-1
+Path: TypeName/InputTypeName5.java
+TypeName,-4
+EmptyLineSeparator,-2
+OneTopLevelClass,-1
+Indentation,3
+Path: NeedBraces/InputNeedBracesTestIt.java
+OneStatementPerLine,2
+Indentation,49
+Path: LeftCurly/InputLeftCurlyTestDefaultWithAnnotations.java
+EmptyLineSeparator,1
+OneTopLevelClass,-2
+Indentation,16
+Path: NeedBraces/InputNeedBracesTestSingleLineLambda.java
+LineLength,2
+EmptyLineSeparator,3
+WhitespaceAfter,1
+MethodName,5
+ParenPad,-2
+Indentation,30
+Path: SeparatorWrap/InputSeparatorWrapForEllipsis.java
+Indentation,7
+Path: NoWhitespaceBefore/InputNoWhitespaceBeforeMethodRef.java
+MethodName,1
+Indentation,26
+Path: RegexpSinglelineJava/InputRegexpSinglelineJavaSemantic2.java
+UpperEll,-1
+EmptyBlock,2
+EmptyLineSeparator,6
+WhitespaceAround,2
+LeftCurly,-7
+Indentation,108
+EmptyCatchBlock,2
+Path: MissingDeprecated/InputMissingDeprecatedSingleComment.java
+InvalidJavadocPosition,-1
+Indentation,3
+Path: OperatorWrap/InputOperatorWrap2.java
+TypeName,-2
+MissingSwitchDefault,-1
+OneTopLevelClass,-5
+Indentation,20
+OperatorWrap,-2
+Path: MissingJavadocMethod/InputMissingJavadocMethodScopeAnonInner.java
+WhitespaceAround,3
+LeftCurly,-5
+Indentation,3
+Path: MemberName/InputMemberName6.java
+EmptyLineSeparator,1
+Indentation,11
+Path: RightCurly/InputRightCurlyTestOptAloneBlocksWithSemi.java
+EmptyLineSeparator,-16
+NoWhitespaceBefore,4
+Indentation,79
+Path: IllegalType/InputIllegalTypeNewArrayStructure.java
+Indentation,9
+Path: HiddenField/InputHiddenField5.java
+EmptyLineSeparator,2
+SummaryJavadoc,-14
+OneTopLevelClass,-13
+LeftCurly,-3
+ParameterName,-1
+MemberName,-5
+Indentation,35
+OverloadMethodsDeclarationOrder,-1
+Path: EmptyBlock/InputEmptyBlockSemantic2Text.java
+WhitespaceAround,-4
+Indentation,33
+Path: MissingJavadocMethod/InputMissingJavadocMethodSmallMethods.java
+OneTopLevelClass,-2
+LeftCurly,-1
+Indentation,32
+Path: IllegalThrows/InputIllegalThrowsTestDefault.java
+LeftCurly,-2
+Indentation,7
+Path: LeftCurly/InputLeftCurlyTestNlowSwitch.java
+Indentation,43
+Path: RightCurly/InputRightCurlyTestWithAnnotations.java
+RightCurlySame,-2
+EmptyLineSeparator,1
+WhitespaceAround,10
+Indentation,293
+Path: RightCurly/InputRightCurlyTestWithoutFinally.java
+RightCurlySame,-1
+OneTopLevelClass,-1
+MemberName,-1
+Indentation,9
+Path: PackageName/InputPackageNameSimple.java
+LineLength,1
+LocalVariableName,-1
+SummaryJavadoc,-4
+OneTopLevelClass,-2
+Indentation,48
+Path: AnnotationUseStyle/InputAnnotationUseStyleDifferentStyles.java
+OneTopLevelClass,-15
+MemberName,-1
+AbbreviationAsWordInName,-3
+Indentation,3
+Path: ThrowsCount/InputThrowsCount2.java
+LineLength,4
+OneTopLevelClass,-1
+Indentation,17
+Path: MultipleStringLiterals/InputMultipleStringLiteralsNoWarnings.java
+EmptyLineSeparator,1
+Indentation,4
+Path: MissingOverride/InputMissingOverrideGoodOverrideJava5.java
+EmptyLineSeparator,1
+WhitespaceAround,6
+Indentation,10
+Path: ConstantName/InputConstantName.java
+EmptyLineSeparator,1
+LeftCurly,-1
+Indentation,5
+Path: JavadocMissingWhitespaceAfterAsterisk/InputJavadocMissingWhitespaceAfterAsteriskValid.java
+JavadocTagContinuationIndentation,-1
+JavadocParagraph,-1
+Indentation,29
+Path: MissingJavadocType/InputMissingJavadocTypeScopeInnerInterfaces1.java
+LeftCurly,-5
+Indentation,22
+Path: MissingOverride/InputMissingOverrideBadAnnotation.java
+EmptyLineSeparator,1
+WhitespaceAround,4
+Indentation,7
+Path: RightCurly/InputRightCurlyTestNullPointerException.java
+Indentation,7
+Path: MissingJavadocMethod/InputMissingJavadocMethodReceiverParameter.java
+Indentation,12
+Path: JavadocStyle/InputJavadocStyleFirstSentenceTwo.java
+LeftCurly,-1
+NoWhitespaceBefore,2
+Indentation,22
+Path: AnnotationLocation/InputAnnotationLocationParameterized.java
+Indentation,20
+Path: MultipleStringLiterals/InputMultipleStringLiterals7.java
+EmptyLineSeparator,1
+Indentation,22
+Path: IllegalTokenText/InputIllegalTokenTextTokens5.java
+Indentation,22
+Path: UpperEll/InputUpperEllSemantic.java
+UpperEll,-1
+EmptyBlock,2
+EmptyLineSeparator,6
+WhitespaceAround,2
+LeftCurly,-7
+Indentation,108
+EmptyCatchBlock,2
+Path: BooleanExpressionComplexity/InputBooleanExpressionComplexityNPE.java
+EmptyLineSeparator,1
+LeftCurly,-1
+Indentation,8
+Path: RegexpSinglelineJava/InputRegexpSinglelineJavaSemantic7.java
+UpperEll,-1
+EmptyBlock,2
+EmptyLineSeparator,6
+WhitespaceAround,2
+LeftCurly,-7
+Indentation,108
+EmptyCatchBlock,2
+Path: AnnotationOnSameLine/InputAnnotationOnSameLineCheck.java
+EmptyLineSeparator,2
+WhitespaceAfter,1
+OneTopLevelClass,-3
+Indentation,10
+Path: MissingJavadocMethod/InputMissingJavadocMethodNoJavadoc2.java
+EmptyLineSeparator,4
+OneTopLevelClass,-1
+LeftCurly,-1
+Indentation,64
+Path: JavadocStyle/InputJavadocStyle7.java
+LineLength,1
+EmptyLineSeparator,-3
+JavadocMethod,4
+ClassTypeParameterName,-1
+LeftCurly,-4
+InvalidJavadocPosition,-1
+MethodTypeParameterName,-3
+NoWhitespaceBefore,2
+Indentation,106
+Path: EqualsAvoidNull/InputEqualsAvoidNullOnTheSameLine.java
+EmptyLineSeparator,2
+Indentation,23
+Path: MissingJavadocMethod/InputMissingJavadocMethod_01.java
+EmptyLineSeparator,-3
+Indentation,23
+Path: JavadocStyle/InputJavadocStyleFirstSentenceFormatThree.java
+JavadocMethod,4
+ClassTypeParameterName,-1
+LeftCurly,-4
+MethodTypeParameterName,-3
+Indentation,25
+Path: NewlineAtEndOfFile/InputNewlineAtEndOfFileCrlf.java
+Path: IllegalCatch/InputIllegalCatch2.java
+Indentation,33
+Path: CustomImportOrder/InputCustomImportOrderFindBetterPatternMatch.java
+Indentation,3
+Path: RightCurly/InputRightCurlyLeftTestNewLine.java
+RightCurlySame,-4
+TypeName,-2
+OneStatementPerLine,1
+SummaryJavadoc,-1
+OneTopLevelClass,-8
+MemberName,-1
+MethodName,-2
+NoWhitespaceBefore,2
+Indentation,56
+Path: EqualsAvoidNull/InputEqualsAvoidNullSuperClass.java
+EmptyLineSeparator,1
+OneTopLevelClass,-1
+Indentation,4
+Path: MemberName/InputMemberNameExtended.java
+EmptyLineSeparator,3
+WhitespaceAround,1
+OneTopLevelClass,-2
+MemberName,-8
+Indentation,25
+Path: DefaultComesLast/InputDefaultComesLastDefaultMethodsInInterface.java
+Indentation,8
+Path: EqualsHashCode/InputEqualsHashCodeEqualsParameter.java
+ModifierOrder,3
+Indentation,145
+Path: ReturnCount/InputReturnCountLambda4.java
+LineLength,1
+OneStatementPerLine,5
+EmptyLineSeparator,1
+WhitespaceAfter,1
+MethodName,9
+ParenPad,1
+Indentation,51
+Path: RightCurly/InputRightCurlyTestOptionAlone.java
+LineLength,1
+EmptyLineSeparator,3
+WhitespaceAround,5
+MethodName,1
+Indentation,95
+Path: NeedBraces/InputNeedBracesEmptySingleLineDefaultStmt.java
+EmptyLineSeparator,1
+OneTopLevelClass,-2
+Indentation,14
+Path: NewlineAtEndOfFile/InputNewlineAtEndOfFileCrlf2.java
+RightCurlyAlone,-1
+Indentation,-1
+Path: JavaNCSS/InputJavaNCSS2.java
+MultipleVariableDeclarations,-2
+EmptyLineSeparator,2
+WhitespaceAround,1
+OneTopLevelClass,-2
+MemberName,-1
+Indentation,30
+Path: WhitespaceAround/InputWhitespaceAroundVarargs.java
+Indentation,15
+Path: IllegalThrows/InputIllegalThrowsTestIllegalClassNames.java
+LeftCurly,-2
+Indentation,7
+Path: FinalClass/InputFinalClassEnum.java
+WhitespaceAfter,2
+MethodParamPad,2
+Indentation,28
+Path: AnnotationUseStyle/InputAnnotationUseStyleParams.java
+Indentation,6
+Path: LeftCurly/InputLeftCurlyWithEmoji.java
+LineLength,1
+EmptyBlock,4
+AvoidEscapedUnicodeCharacters,11
+OneTopLevelClass,-1
+MethodName,1
+Indentation,45
+EmptyCatchBlock,1
+Path: ExplicitInitialization/InputExplicitInitialization.java
+TypeName,-2
+MultipleVariableDeclarations,-1
+EmptyLineSeparator,1
+OneTopLevelClass,-8
+MemberName,-9
+Indentation,27
+ArrayTypeStyle,-3
+Path: MemberName/InputMemberName4.java
+EmptyLineSeparator,1
+Indentation,11
+Path: HideUtilityClassConstructor/InputHideUtilityClassConstructorInnerStaticClasses.java
+EmptyLineSeparator,3
+Indentation,19
+Path: MissingJavadocMethod/InputMissingJavadocMethodInterfaceMemberScopeIsPublic.java
+Indentation,18
+Path: NewlineAtEndOfFile/InputNewlineAtEndOfFileNoNewline2.java
+Path: JavadocVariable/InputJavadocVariableInner.java
+EmptyLineSeparator,2
+WhitespaceAround,1
+NoWhitespaceBefore,2
+Indentation,35
+Path: MissingJavadocMethod/InputMissingJavadocMethodScopeAnonInner2.java
+WhitespaceAround,3
+LeftCurly,-5
+Indentation,3
+Path: HiddenField/InputHiddenFieldReceiver.java
+Indentation,10
+Path: WhitespaceAround/InputWhitespaceAroundKeywordsAndOperators.java
+EmptyBlock,2
+MultipleVariableDeclarations,-2
+WhitespaceAfter,4
+WhitespaceAround,3
+OneTopLevelClass,-2
+LeftCurly,-1
+Indentation,93
+AbbreviationAsWordInName,-1
+EmptyCatchBlock,1
+ArrayTypeStyle,-1
+Path: MultipleVariableDeclarations/InputMultipleVariableDeclarations.java
+MultipleVariableDeclarations,-2
+EmptyLineSeparator,1
+Indentation,35
+ArrayTypeStyle,-2
+Path: IllegalType/InputIllegalTypeSimilarClassName.java
+EmptyLineSeparator,1
+Indentation,9
+Path: JavadocContentLocation/InputJavadocContentLocationInterface.java
+Path: AnnotationLocation/InputAnnotationLocationWithoutAnnotations.java
+WhitespaceAround,1
+ModifierOrder,1
+Indentation,20
+Path: MethodParamPad/InputMethodParamPadCheckWithEmoji.java
+LineLength,2
+WhitespaceAround,-2
+AvoidEscapedUnicodeCharacters,9
+Indentation,29
+OperatorWrap,-1
+Path: MissingDeprecated/InputMissingDeprecatedClass.java
+RightCurlyAlone,-1
+Indentation,2
+Path: WhitespaceAround/InputWhitespaceAroundBraces2.java
+OneStatementPerLine,2
+WhitespaceAround,-2
+Indentation,60
+Path: AnnotationUseStyle/InputAnnotationUseStyleNoTrailingCommaNever.java
+WhitespaceAround,1
+OneTopLevelClass,-2
+InvalidJavadocPosition,-1
+NoWhitespaceBefore,2
+Indentation,12
+Path: AbbreviationAsWordInName/InputAbbreviationAsWordInNameType4.java
+LocalVariableName,-1
+MultipleVariableDeclarations,-1
+OneTopLevelClass,-22
+AbbreviationAsWordInName,-13
+Indentation,3
+Path: AbbreviationAsWordInName/InputAbbreviationAsWordInNameAbstractMultisetSetCount.java
+EmptyLineSeparator,1
+OneTopLevelClass,-1
+Indentation,6
+Path: RightCurly/InputRightCurlyLeftTestAlone.java
+TypeName,-2
+OneStatementPerLine,1
+SummaryJavadoc,-1
+OneTopLevelClass,-8
+MemberName,-1
+MethodName,-2
+NoWhitespaceBefore,2
+Indentation,56
+Path: HiddenField/InputHiddenFieldLambdas.java
+LineLength,4
+OneStatementPerLine,2
+EmptyLineSeparator,11
+InvalidJavadocPosition,-1
+ParameterName,1
+MethodName,12
+NeedBraces,-6
+ParenPad,1
+Indentation,140
+InterfaceTypeParameterName,-5
+LambdaParameterName,-1
+Path: AbbreviationAsWordInName/InputAbbreviationAsWordInNameType.java
+LocalVariableName,-1
+MultipleVariableDeclarations,-1
+OneTopLevelClass,-22
+AbbreviationAsWordInName,-13
+Indentation,3
+Path: RegexpSinglelineJava/InputRegexpSinglelineJavaTrailingComment4.java
+EmptyLineSeparator,1
+WhitespaceAround,1
+Indentation,13
+Path: RedundantImport/InputRedundantImportBug.java
+Indentation,5
+Path: NewlineAtEndOfFile/InputNewlineAtEndOfFileCr2.java
+LeftCurly,-1
+InvalidJavadocPosition,-1
+Indentation,-2
+Path: EqualsAvoidNull/InputEqualsAvoidNullMisc.java
+OneTopLevelClass,-2
+NoWhitespaceBefore,1
+Indentation,5
+Path: EqualsAvoidNull/InputEqualsAvoidNullIgnoreCase.java
+FallThrough,-2
+LocalVariableName,-1
+EmptyLineSeparator,-2
+MissingSwitchDefault,-1
+OneTopLevelClass,-7
+MemberName,-1
+NeedBraces,-1
+Indentation,93
+Path: EqualsHashCode/InputEqualsHashCodeSemantic.java
+EmptyLineSeparator,4
+WhitespaceAround,2
+LeftCurly,-7
+Indentation,72
+Path: JavadocStyle/InputJavadocStyleInterfaceMemberScopeIsPublic.java
+MethodParamPad,1
+Indentation,9
+Path: MissingJavadocType/InputMissingJavadocTypeUnusedParamInJavadocForClass.java
+Indentation,3
+Path: AnnotationLocation/InputAnnotationLocationEmpty.java
+Indentation,3
+Path: CustomImportOrder/InputCustomImportOrder_NoImports.java
+Indentation,3
+Path: AvoidNestedBlocks/InputAvoidNestedBlocksAllowInSwitchCase.java
+EmptyLineSeparator,1
+Indentation,34
+Path: MemberName/InputMemberName.java
+EmptyLineSeparator,1
+Indentation,11
+Path: AvoidEscapedUnicodeCharacters/InputAvoidEscapedUnicodeCharacters2.java
+LineLength,1
+EmptyLineSeparator,4
+AvoidEscapedUnicodeCharacters,19
+IllegalTokenText,-1
+Indentation,94
+Path: LambdaBodyLength/InputLambdaBodyLengthMax.java
+EmptyLineSeparator,1
+MethodName,7
+ParenPad,-1
+Indentation,33
+Path: MissingCtor/InputMissingCtor2.java
+Indentation,13
+Path: RightCurly/InputRightCurlyTryWithResourceAloneSingle.java
+RightCurlySame,-2
+WhitespaceAround,-2
+LeftCurly,-1
+Indentation,31
+Path: TypeName/InputTypeName4.java
+TypeName,-4
+EmptyLineSeparator,-2
+OneTopLevelClass,-1
+Indentation,3
+Path: IllegalType/InputIllegalTypeGregCal.java
+Indentation,8
+Path: MissingJavadocMethod/InputMissingJavadocMethodSetterGetter2.java
+OneTopLevelClass,-1
+LeftCurly,-8
+Indentation,29
+Path: FinalClass/InputFinalClassInterface.java
+Indentation,15
+Path: OperatorWrap/InputOperatorWrap3.java
+TypeName,-2
+MissingSwitchDefault,-1
+OneTopLevelClass,-5
+Indentation,20
+Path: NeedBraces/InputNeedBracesTestCaseDefaultNoSingleLine.java
+Indentation,57
+Path: RegexpSinglelineJava/InputRegexpSinglelineJavaTrailingComment2.java
+EmptyLineSeparator,1
+WhitespaceAround,1
+Indentation,13
+Path: MissingJavadocType/InputMissingJavadocTypeNoJavadoc2.java
+EmptyLineSeparator,4
+OneTopLevelClass,-1
+LeftCurly,-1
+Indentation,64
+Path: EqualsHashCode/InputEqualsHashCode.java
+Indentation,30
+Path: HideUtilityClassConstructor/InputHideUtilityClassConstructorNonUtilityClass.java
+LeftCurly,-1
+Indentation,5
+Path: ImportOrder/InputImportOrderRepetition.java
+Indentation,3
+Path: HideUtilityClassConstructor/InputHideUtilityClassConstructorRegression.java
+EmptyLineSeparator,1
+LeftCurly,-1
+Indentation,5
+Path: AtclauseOrder/InputAtclauseOrderIncorrect.java
+EmptyLineSeparator,1
+WhitespaceAround,1
+OneTopLevelClass,-2
+SummaryJavadoc,-1
+Indentation,50
+Path: OperatorWrap/InputOperatorWrapArrayAssign.java
+EmptyLineSeparator,1
+OneTopLevelClass,-5
+Indentation,3
+Path: MultipleStringLiterals/InputMultipleStringLiterals2.java
+EmptyLineSeparator,1
+Indentation,22
+Path: UnnecessaryParentheses/InputUnnecessaryParenthesesLambdas.java
+LineLength,19
+WhitespaceAfter,14
+MissingSwitchDefault,2
+MethodName,16
+NeedBraces,10
+ParenPad,5
+Indentation,151
+OverloadMethodsDeclarationOrder,1
+Path: LeftCurly/InputLeftCurlyTestDefaultLambda.java
+EmptyLineSeparator,1
+MethodName,3
+Indentation,15
+Path: AnnotationLocation/InputAnnotationLocationAnnotation.java
+OneTopLevelClass,-2
+Indentation,1
+Path: StaticVariableName/InputStaticVariableName2.java
+LineLength,1
+LocalVariableName,-1
+SummaryJavadoc,-4
+OneTopLevelClass,-2
+LeftCurly,-1
+Indentation,46
+Path: JavadocVariable/InputJavadocVariableNoJavadoc.java
+EmptyLineSeparator,4
+OneTopLevelClass,-1
+LeftCurly,-1
+Indentation,64
+Path: RegexpSinglelineJava/InputRegexpSinglelineJavaTrailingComment9.java
+EmptyLineSeparator,1
+WhitespaceAround,1
+Indentation,13
+Path: MethodName/InputMethodNameSimple.java
+LineLength,1
+LocalVariableName,-1
+SummaryJavadoc,-4
+OneTopLevelClass,-2
+Indentation,47
+Path: ParameterName/InputParameterNameAccessModifier.java
+WhitespaceAround,1
+OneTopLevelClass,-1
+MethodName,-2
+Indentation,26
+EmptyCatchBlock,-1
+Path: IllegalTokenText/InputIllegalTokenTextTokens3.java
+Indentation,22
+Path: LeftCurly/InputLeftCurlyIgnoreEnumsOptFalse.java
+EmptyLineSeparator,-1
+NoWhitespaceBefore,8
+Indentation,21
+Path: MultipleStringLiterals/InputMultipleStringLiterals.java
+EmptyLineSeparator,1
+Indentation,22
+Path: IllegalType/InputIllegalTypeArrays.java
+EmptyLineSeparator,1
+Indentation,13
+Path: WhitespaceAround/InputWhitespaceAroundArrayInitialization.java
+LineLength,1
+Indentation,15
+Path: DefaultComesLast/InputDefaultComesLast.java
+OneTopLevelClass,-1
+InvalidJavadocPosition,-1
+Indentation,133
+Path: MissingJavadocMethod/InputMissingJavadocMethodNoJavadoc.java
+EmptyLineSeparator,4
+OneTopLevelClass,-1
+LeftCurly,-1
+Indentation,64
+Path: CatchParameterName/InputCatchParameterName2.java
+EmptyLineSeparator,1
+Indentation,48
+EmptyCatchBlock,5
+Path: NeedBraces/InputNeedBracesLoopBodyTrue.java
+EmptyLineSeparator,2
+MissingJavadocMethod,-8
+ParenPad,-3
+Indentation,78
+Path: IllegalThrows/InputIllegalThrowsTestClassNames.java
+LeftCurly,-2
+Indentation,7
+Path: WhitespaceAround/InputWhitespaceAroundAllowEmptyTypesAndNonEmptyClasses2.java
+EmptyLineSeparator,7
+OneTopLevelClass,-1
+MemberName,-1
+Indentation,54
+Path: HiddenField/InputHiddenField3.java
+EmptyLineSeparator,2
+SummaryJavadoc,-14
+OneTopLevelClass,-13
+LeftCurly,-6
+ParameterName,-1
+MemberName,-5
+Indentation,29
+OverloadMethodsDeclarationOrder,-1
+Path: JavadocContentLocation/InputJavadocContentLocationTrailingSpace.java
+LineLength,3
+Indentation,11
+Path: StringLiteralEquality/InputStringLiteralEqualityConcatenatedString.java
+EmptyBlock,8
+Indentation,26
+Path: TypecastParenPad/InputTypecastParenPadWhitespaceTestSpace.java
+TypeName,-2
+EmptyBlock,1
+MultipleVariableDeclarations,-2
+WhitespaceAfter,4
+WhitespaceAround,3
+OneTopLevelClass,-2
+AbbreviationAsWordInName,-1
+Indentation,95
+ArrayTypeStyle,-1
+Path: SingleSpaceSeparator/InputSingleSpaceSeparatorCommentsWithEmoji.java
+EmptyBlock,1
+OneStatementPerLine,-1
+AvoidEscapedUnicodeCharacters,11
+Indentation,25
+Path: RightCurly/InputRightCurlyTestSame.java
+EmptyLineSeparator,-3
+WhitespaceAround,1
+Indentation,38
+Path: SuperClone/InputSuperClonePlainAndSubclasses.java
+OneTopLevelClass,-4
+Indentation,1
+Path: AnnotationLocation/InputAnnotationLocationSingleParameterless.java
+Indentation,34
+Path: IllegalType/InputIllegalTypeTestAbstractClassNamesTrue.java
+EmptyLineSeparator,1
+Indentation,29
+Path: LeftCurly/InputLeftCurlyTestEolSwitch.java
+Indentation,57
+Path: IllegalType/InputIllegalTypeTestExtendsImplements.java
+Indentation,27
+InterfaceTypeParameterName,-2
+GenericWhitespace,-2
+Path: AnnotationUseStyle/InputAnnotationUseStyleNoTrailingComma.java
+WhitespaceAround,1
+OneTopLevelClass,-2
+InvalidJavadocPosition,-1
+NoWhitespaceBefore,2
+Indentation,12
+Path: MissingJavadocMethod/InputMissingJavadocMethodExtendAnnotation.java
+EmptyLineSeparator,1
+Indentation,16
+Path: IllegalType/InputIllegalType.java
+OneTopLevelClass,-1
+Indentation,24
+Path: JavadocStyle/InputJavadocStyle6.java
+LineLength,1
+EmptyLineSeparator,-2
+JavadocMethod,4
+LeftCurly,-5
+ClassTypeParameterName,-1
+InvalidJavadocPosition,-1
+MethodTypeParameterName,-3
+NoWhitespaceBefore,2
+Indentation,104
+Path: ReturnCount/InputReturnCountLambda2.java
+LineLength,1
+OneStatementPerLine,5
+EmptyLineSeparator,1
+WhitespaceAfter,1
+MethodName,9
+ParenPad,1
+Indentation,51
+Path: RightCurly/InputRightCurlyLeftTestDefault.java
+RightCurlySame,-4
+TypeName,-2
+OneStatementPerLine,1
+SummaryJavadoc,-1
+OneTopLevelClass,-8
+MemberName,-1
+NoWhitespaceBefore,2
+Indentation,56
+Path: BooleanExpressionComplexity/InputBooleanExpressionComplexitySmall.java
+LineLength,2
+MethodName,1
+MissingJavadocMethod,-1
+Indentation,14
+Path: HideUtilityClassConstructor/InputHideUtilityClassConstructorSerializable.java
+EmptyLineSeparator,1
+Indentation,4
+Path: MissingJavadocMethod/InputMissingJavadocMethodIgnoreNameRegex2.java
+Indentation,13
+Path: LeftCurly/InputLeftCurlyTestInvalidOption.java
+Indentation,47
+Path: RegexpSinglelineJava/InputRegexpSinglelineJavaSemantic.java
+UpperEll,-1
+EmptyBlock,2
+EmptyLineSeparator,6
+WhitespaceAround,2
+LeftCurly,-7
+Indentation,108
+EmptyCatchBlock,2
+Path: EmptyBlock/InputEmptyBlockDefault.java
+Indentation,113
+Path: LeftCurly/InputLeftCurlyMethodTestNewLine2.java
+OneTopLevelClass,-1
+ParameterName,-8
+MethodName,-1
+Indentation,21
+Path: JavadocVariable/InputJavadocVariableNoJavadoc2.java
+EmptyLineSeparator,4
+OneTopLevelClass,-1
+LeftCurly,-1
+Indentation,64
+Path: ImportOrder/InputImportOrder_InFlow.java
+Indentation,3
+Path: SuperClone/InputSuperCloneWithoutWarnings.java
+Indentation,6
+Path: RegexpSinglelineJava/InputRegexpSinglelineJavaTrailingComment6.java
+EmptyLineSeparator,1
+WhitespaceAround,1
+Indentation,13
+Path: DeclarationOrder/InputDeclarationOrderForwardReference.java
+EmptyLineSeparator,2
+OneTopLevelClass,-1
+Indentation,31
+Path: DeclarationOrder/InputDeclarationOrderInterfaceMemberScopeIsPublic.java
+EmptyLineSeparator,1
+Indentation,5
+Path: RightCurly/InputRightCurlyTestDoubleBrace.java
+EmptyLineSeparator,1
+Indentation,5
+Path: MissingJavadocMethod/InputMissingJavadocMethodPublicOnly3.java
+WhitespaceAround,2
+LeftCurly,-2
+Indentation,46
+Path: MethodName/InputMethodNamePublicMethodsInInterfaces.java
+Indentation,10
+Path: CustomImportOrder/InputCustomImportOrderEmptyRule.java
+Indentation,3
+Path: ConstantName/InputConstantNameSimple2.java
+LineLength,1
+LocalVariableName,-1
+SummaryJavadoc,-4
+OneTopLevelClass,-2
+Indentation,48
+Path: RightCurly/InputRightCurlyTestEmptyOnSingleLine.java
+Indentation,3
+Path: ArrayTypeStyle/InputArrayTypeStyleNestedGenerics.java
+EmptyLineSeparator,2
+Indentation,18
+ArrayTypeStyle,-4
+Path: LeftCurly/InputLeftCurlyTestNlSwitch.java
+Indentation,43
+Path: ImportOrder/InputImportOrderSortStaticImportsAlphabetically2.java
+Indentation,3
+Path: MissingOverride/InputMissingOverrideBadOverrideFromOther.java
+OneTopLevelClass,-4
+SummaryJavadoc,-3
+InvalidJavadocPosition,-1
+AbbreviationAsWordInName,-2
+Indentation,7
+Path: MemberName/InputMemberName7.java
+EmptyLineSeparator,1
+Indentation,11
+Path: RedundantImport/InputRedundantImportCheckClearState.java
+Indentation,3
+Path: ImportOrder/InputImportOrder_DotPackageName.java
+Indentation,3
+Path: SingleSpaceSeparator/InputSingleSpaceSeparatorNoStackoverflowError.java
+EmptyLineSeparator,1
+Indentation,4
+Path: MissingJavadocType/InputMissingJavadocTypeInner.java
+EmptyLineSeparator,2
+WhitespaceAround,1
+LeftCurly,-3
+NoWhitespaceBefore,2
+Indentation,26
+Path: JavadocVariable/InputJavadocVariableNoJavadoc3.java
+EmptyLineSeparator,4
+OneTopLevelClass,-1
+LeftCurly,-1
+Indentation,64
+Path: JavadocStyle/InputJavadocStyleDefaultSettingsOne.java
+LineLength,1
+LeftCurly,-1
+Indentation,27
+Path: MultipleStringLiterals/InputMultipleStringLiterals5.java
+EmptyLineSeparator,1
+Indentation,22
+Path: NoWhitespaceBefore/InputNoWhitespaceBeforeWithEmoji.java
+LineLength,1
+EmptyLineSeparator,1
+AvoidEscapedUnicodeCharacters,7
+Indentation,8
+Path: NeedBraces/InputNeedBracesTestConditions.java
+Indentation,47
+Path: NeedBraces/InputNeedBracesTestSingleLineCaseDefault.java
+OneStatementPerLine,3
+EmptyLineSeparator,2
+Indentation,110
+Path: HideUtilityClassConstructor/InputHideUtilityClassConstructorSerializableInnerStatic.java
+Indentation,28
+Path: IllegalCatch/InputIllegalCatch.java
+EmptyBlock,2
+Indentation,17
+EmptyCatchBlock,6
+Path: InterfaceIsType/InputInterfaceIsType.java
+LeftCurly,-1
+Indentation,9
+Path: HiddenField/InputHiddenField2.java
+EmptyLineSeparator,2
+SummaryJavadoc,-14
+OneTopLevelClass,-13
+LeftCurly,-7
+ParameterName,-1
+MemberName,-5
+Indentation,27
+OverloadMethodsDeclarationOrder,-1
+Path: InnerAssignment/InputInnerAssignmentLambdaExpressions.java
+MethodName,1
+Indentation,20
+Path: CyclomaticComplexity/InputCyclomaticComplexitySwitchBlocks4.java
+LineLength,2
+Indentation,19
+Path: JavadocMissingLeadingAsterisk/InputJavadocMissingLeadingAsteriskCorrect.java
+SummaryJavadoc,-3
+OneTopLevelClass,-2
+MemberName,-2
+AbbreviationAsWordInName,-2
+Indentation,18
+Path: EmptyBlock/InputEmptyBlockSemanticText.java
+RightCurlySame,-1
+UpperEll,-1
+EmptyBlock,2
+EmptyLineSeparator,4
+Indentation,53
+Path: LeftCurly/InputLeftCurlyTestLineBreakAfter.java
+RightCurlySame,-1
+TypeName,-2
+EmptyLineSeparator,1
+OneTopLevelClass,-5
+Indentation,50
+Path: EmptyCatchBlock/InputEmptyCatchBlockDefault.java
+InvalidJavadocPosition,-1
+Indentation,173
+EmptyCatchBlock,11
+Path: MissingJavadocType/InputMissingJavadocTypeNoJavadocOnInterface.java
+Indentation,5
+Path: HideUtilityClassConstructor/InputHideUtilityClassConstructorAbstract.java
+Indentation,5
+Path: JavadocVariable/InputJavadocVariableInterfaceMemberScopeIsPublic.java
+NoWhitespaceBefore,2
+Indentation,8
+Path: MissingJavadocMethod/InputMissingJavadocMethodConstructor.java
+EmptyLineSeparator,-4
+Indentation,24
+Path: WhitespaceAround/InputWhitespaceAroundBraces.java
+OneStatementPerLine,2
+WhitespaceAround,-2
+Indentation,60
+Path: IllegalInstantiation/InputIllegalInstantiationSameClassNameJavaLang.java
+EmptyLineSeparator,1
+OneTopLevelClass,-1
+LeftCurly,-1
+Indentation,2
+Path: AvoidNestedBlocks/InputAvoidNestedBlocksDefault.java
+EmptyLineSeparator,1
+Indentation,34
+Path: AvoidNoArgumentSuperConstructorCall/InputAvoidNoArgumentSuperConstructorCall.java
+OneTopLevelClass,-3
+ParenPad,-2
+Indentation,14
+GenericWhitespace,-1
+Path: SeparatorWrap/InputSeparatorWrapWithEmoji.java
+LineLength,1
+EmptyLineSeparator,1
+AvoidEscapedUnicodeCharacters,8
+Indentation,20
+Path: AvoidEscapedUnicodeCharacters/InputAvoidEscapedUnicodeCharacters5.java
+CommentsIndentation,-1
+NoWhitespaceBeforeCaseDefaultColon,-4
+EmptyLineSeparator,1
+AvoidEscapedUnicodeCharacters,10
+Indentation,28
+Path: NewlineAtEndOfFile/InputNewlineAtEndOfFileLf2.java
+RightCurlyAlone,-1
+Indentation,-1
+Path: AvoidStaticImport/InputAvoidStaticImportNestedClass.java
+EmptyLineSeparator,2
+Indentation,10
+Path: ConstantName/InputConstantNameStaticModifierInInterface.java
+LeftCurly,-1
+Indentation,2
+Path: RegexpSinglelineJava/InputRegexpSinglelineJavaSemantic3.java
+UpperEll,-1
+EmptyBlock,2
+EmptyLineSeparator,6
+WhitespaceAround,2
+LeftCurly,-7
+Indentation,108
+EmptyCatchBlock,2
+Path: RightCurly/InputRightCurlyLeftTestSame.java
+RightCurlySame,-4
+TypeName,-2
+OneStatementPerLine,1
+SummaryJavadoc,-1
+OneTopLevelClass,-8
+MemberName,-1
+MethodName,-2
+NoWhitespaceBefore,2
+Indentation,56
+Path: DeclarationOrder/InputDeclarationOrderVariableAccess.java
+LineLength,1
+WhitespaceAround,1
+Indentation,15
+Path: RightCurly/InputRightCurlyTestSameAndLiteralDo.java
+RightCurlySame,-3
+MultipleVariableDeclarations,-1
+WhitespaceAfter,1
+MissingJavadocMethod,-1
+Indentation,72
+Path: RightCurly/InputRightCurlyWithEmojiAloneOrSingleLine.java
+RightCurlySame,-1
+LineLength,1
+EmptyLineSeparator,2
+WhitespaceAround,1
+AvoidEscapedUnicodeCharacters,16
+MethodName,1
+Indentation,49
+Path: MissingJavadocType/InputMissingJavadocTypePublicOnly1.java
+RightCurlyAlone,-1
+WhitespaceAround,2
+LeftCurly,-5
+Indentation,31
+Path: AvoidEscapedUnicodeCharacters/InputAvoidEscapedUnicodeCharactersAllEscapedUnicodeCharacters.java
+LineLength,1
+EmptyLineSeparator,1
+IllegalTokenText,-5
+AvoidEscapedUnicodeCharacters,4
+Indentation,4
+Path: WhitespaceAround/InputWhitespaceAround1.java
+OneTopLevelClass,-2
+LeftCurly,-1
+Indentation,11
+Path: UnnecessarySemicolonInTryWithResources/InputUnnecessarySemicolonInTryWithResourcesDefault.java
+WhitespaceAround,-10
+Indentation,20
+Path: AnnotationOnSameLine/InputAnnotationOnSameLineCheck2.java
+CustomImportOrder,1
+EmptyLineSeparator,1
+OneTopLevelClass,-4
+Indentation,8
+Path: SingleSpaceSeparator/InputSingleSpaceSeparatorWithEmoji.java
+EmptyBlock,2
+OneStatementPerLine,-1
+AvoidEscapedUnicodeCharacters,11
+Indentation,26
+Path: WhitespaceAround/InputWhitespaceAroundDoubleBraceInitialization.java
+WhitespaceAround,5
+EmptyLineSeparator,1
+Indentation,24
+Path: ParameterAssignment/InputParameterAssignmentReceiver.java
+Indentation,10
+Path: MissingJavadocMethod/InputMissingJavadocMethodEnumCtorScopeIsPrivate.java
+MethodParamPad,1
+Indentation,7
+Path: MethodTypeParameterName/InputMethodTypeParameterName.java
+OneTopLevelClass,-6
+ClassTypeParameterName,-3
+MethodTypeParameterName,-4
+Indentation,7
+InterfaceTypeParameterName,-1
+Path: ImportOrder/InputImportOrderCaseInsensitive.java
+Indentation,3
+Path: MissingDeprecated/InputMissingDeprecatedBadJavadoc.java
+SummaryJavadoc,-3
+OneTopLevelClass,-2
+NonEmptyAtclauseDescription,-1
+NoWhitespaceBefore,1
+Indentation,11
+Path: EmptyBlock/InputEmptyBlockCase2.java
+Indentation,59
+Path: WhitespaceAround/InputWhitespaceAroundAfterEmoji.java
+LineLength,6
+EmptyLineSeparator,1
+AvoidEscapedUnicodeCharacters,6
+Indentation,9
+Path: WhitespaceAround/InputWhitespaceAroundAllTokens.java
+EmptyLineSeparator,1
+Indentation,4
+Path: NewlineAtEndOfFile/InputNewlineAtEndOfFileNoNewline.java
+Path: ReturnCount/InputReturnCountVoid.java
+Indentation,36
+Path: IllegalType/InputIllegalTypeTestMemberModifiers.java
+EmptyLineSeparator,2
+Indentation,45
+Path: NestedForDepth/InputNestedForDepth1.java
+Indentation,25
+Path: NoWhitespaceBefore/InputNoWhitespaceBeforeEmptyForLoop.java
+Indentation,20
+Path: UnnecessaryParentheses/InputUnnecessaryParenthesesIfStatement2.java
+LineLength,2
+EmptyBlock,4
+MultipleVariableDeclarations,-2
+WhitespaceAround,-6
+ParenPad,-2
+Indentation,51
+OperatorWrap,-2
+Path: JavadocStyle/InputJavadocStyleNeverEndingXmlComment.java
+Indentation,4
+Path: AtclauseOrder/InputAtclauseOrderMethodReturningArrayType.java
+Indentation,2
+ArrayTypeStyle,-1
+Path: LeftCurly/InputLeftCurlyDefaultTestNlow.java
+Indentation,44
+Path: HideUtilityClassConstructor/InputHideUtilityClassConstructorPrivate.java
+EmptyLineSeparator,1
+Indentation,7
+Path: LambdaBodyLength/InputLambdaBodyLengthDefault.java
+LineLength,1
+EmptyLineSeparator,1
+MethodName,8
+ParenPad,-1
+Indentation,51
+Path: AtclauseOrder/InputAtclauseOrderNewArrayDeclaratorStructure.java
+LineLength,4
+OneTopLevelClass,-1
+Indentation,2
+Path: MissingJavadocMethod/InputMissingJavadocMethodPublicMethods.java
+Indentation,31
+Path: NewlineAtEndOfFile/InputNewlineAtEndOfFileCrlf3.java
+RightCurlyAlone,-1
+Indentation,-1
+Path: MissingJavadocMethod/InputMissingJavadocMethodMissingJavadocTags.java
+Indentation,24
+Path: UnnecessaryParentheses/InputUnnecessaryParenthesesIfStatement.java
+LineLength,3
+MultipleVariableDeclarations,-1
+ParenPad,-1
+Indentation,67
+Path: ThrowsCount/InputThrowsCount.java
+LineLength,4
+OneTopLevelClass,-1
+Indentation,17
+Path: JavadocContentLocation/InputJavadocContentLocationFirstLine.java
+EmptyLineSeparator,-1
+Indentation,10
+Path: AbbreviationAsWordInName/InputAbbreviationAsWordInNameIgnoreFinalKeepStaticFinal.java
+MultipleVariableDeclarations,-1
+ModifierOrder,1
+EmptyLineSeparator,2
+Indentation,133
+Path: IllegalTokenText/InputIllegalTokenTextTokens2.java
+Indentation,22
+Path: NewlineAtEndOfFile/InputNewlineAtEndOfFileCr.java
+LeftCurly,-1
+InvalidJavadocPosition,-1
+Indentation,-2
+Path: WhitespaceAround/InputWhitespaceAroundLambda.java
+MethodName,1
+Indentation,9
+Path: AbbreviationAsWordInName/InputAbbreviationAsWordInNameIgnoreNonStaticFinal.java
+MultipleVariableDeclarations,-1
+ModifierOrder,1
+EmptyLineSeparator,2
+Indentation,148
+Path: ReturnCount/InputReturnCountLambda3.java
+LineLength,1
+OneStatementPerLine,5
+EmptyLineSeparator,1
+WhitespaceAfter,1
+MethodName,9
+ParenPad,1
+Indentation,51
+Path: WhitespaceAround/InputWhitespaceAround2.java
+OneTopLevelClass,-2
+Indentation,13
+Path: MissingDeprecated/InputMissingDeprecatedBadDeprecated.java
+SummaryJavadoc,-4
+OneTopLevelClass,-2
+LeftCurly,-1
+NoWhitespaceBefore,1
+Indentation,9
+Path: RedundantImport/InputRedundantImportWithoutWarnings.java
+EmptyLineSeparator,1
+Indentation,4
+Path: OneStatementPerLine/InputOneStatementPerLineSingleLine.java
+LineLength,1
+InvalidJavadocPosition,-6
+MethodName,1
+MissingJavadocMethod,-1
+Indentation,108
+Path: JavadocStyle/InputJavadocStyleDefaultSettingsTwo.java
+EmptyLineSeparator,-1
+LeftCurly,-1
+NoWhitespaceBefore,2
+Indentation,22
+Path: MissingJavadocType/InputMissingJavadocTypeScopeInnerClasses1.java
+RightCurlyAlone,-3
+LeftCurly,-4
+Indentation,20
+Path: SeparatorWrap/InputSeparatorWrapForTestMethodRef.java
+LineLength,1
+Indentation,11
+Path: RightCurly/InputRightCurlyNewTokensAloneOrSingleLine.java
+NoWhitespaceBefore,4
+Indentation,28
+Path: UnnecessarySemicolonAfterOuterTypeDeclaration/InputUnnecessarySemicolonAfterOuterTypeDeclaration.java
+TypeName,-7
+EmptyLineSeparator,-6
+OneTopLevelClass,-7
+Indentation,16
+Path: RegexpSinglelineJava/InputRegexpSinglelineJavaTrailingComment3.java
+EmptyLineSeparator,1
+WhitespaceAround,1
+Indentation,13
+Path: JavadocTagContinuationIndentation/InputJavadocTagContinuationIndentation.java
+EmptyLineSeparator,1
+WhitespaceAround,1
+OneTopLevelClass,-4
+Indentation,50
+Path: OneStatementPerLine/InputOneStatementPerLineMultiline.java
+LineLength,3
+EmptyBlock,1
+MultipleVariableDeclarations,-10
+Indentation,78
+Path: MissingJavadocMethod/InputMissingJavadocMethodJavadocInMethod.java
+InvalidJavadocPosition,-9
+Indentation,21
+Path: RightCurly/InputRightCurlyTestAloneOrSingleline.java
+EmptyBlock,2
+EmptyLineSeparator,6
+WhitespaceAround,10
+MissingJavadocMethod,1
+Indentation,267
+EmptyCatchBlock,2
+Path: AbstractClassName/InputAbstractClassName.java
+OneTopLevelClass,-5
+Indentation,3
+Path: MultipleStringLiterals/InputMultipleStringLiterals3.java
+EmptyLineSeparator,1
+Indentation,22
+Path: MemberName/InputMemberName3.java
+EmptyLineSeparator,1
+Indentation,11
+Path: JavadocStyle/InputJavadocStyle10.java
+LineLength,1
+JavadocMethod,4
+LeftCurly,-5
+ClassTypeParameterName,-1
+InvalidJavadocPosition,-1
+MethodTypeParameterName,-3
+NoWhitespaceBefore,2
+Indentation,104
+Path: HiddenField/InputHiddenFieldStaticVisibility.java
+EmptyLineSeparator,2
+WhitespaceAround,2
+Indentation,25
+Path: LeftCurly/InputLeftCurlyTestDefault3.java
+TypeName,-2
+OneStatementPerLine,1
+SummaryJavadoc,-1
+OneTopLevelClass,-8
+MemberName,-1
+NoWhitespaceBefore,2
+Indentation,56
+Path: ParameterName/InputParameterNameOverrideAnnotation.java
+EmptyLineSeparator,1
+Indentation,22
+Path: StaticVariableName/InputStaticVariableName.java
+Indentation,10
+Path: MissingOverride/InputMissingOverrideGoodOverrideFromOtherJava5.java
+OneTopLevelClass,-4
+AbbreviationAsWordInName,-2
+Indentation,7
+Path: LeftCurly/InputLeftCurlyMethod.java
+OneTopLevelClass,-1
+ParameterName,-8
+Indentation,21
+Path: FinalClass/InputFinalClass.java
+TypeName,-9
+OneTopLevelClass,-17
+LeftCurly,-3
+MemberName,-3
+Indentation,-3
+AbbreviationAsWordInName,-1
+Path: AbbreviationAsWordInName/InputAbbreviationAsWordInNameIgnoreStaticFinal.java
+MultipleVariableDeclarations,-1
+ModifierOrder,1
+EmptyLineSeparator,2
+Indentation,133
+Path: ConstantName/InputConstantNameMemberExtended.java
+EmptyLineSeparator,3
+WhitespaceAround,1
+OneTopLevelClass,-2
+MemberName,-8
+Indentation,25
+Path: SingleSpaceSeparator/InputSingleSpaceSeparatorComments.java
+EmptyLineSeparator,1
+Indentation,9
+Path: NoWhitespaceBeforeCaseDefaultColon/InputNoWhitespaceBeforeCaseDefaultColon.java
+NoWhitespaceBeforeCaseDefaultColon,-1
+EmptyLineSeparator,1
+Indentation,77
+Path: AbbreviationAsWordInName/InputAbbreviationAsWordInNameType3.java
+LocalVariableName,-1
+MultipleVariableDeclarations,-1
+OneTopLevelClass,-22
+AbbreviationAsWordInName,-13
+Indentation,3
+Path: MissingJavadocMethod/InputMissingJavadocMethodPublicOnly.java
+WhitespaceAround,2
+LeftCurly,-2
+Indentation,46
+Path: AnnotationLocation/InputAnnotationLocationDeprecatedAndCustom.java
+EmptyBlock,1
+MethodName,1
+MissingJavadocMethod,1
+Indentation,50
+Path: AnnotationLocation/InputAnnotationLocationClass.java
+OneTopLevelClass,-2
+Indentation,4
+Path: EmptyBlock/InputEmptyBlockWithEmoji.java
+NoWhitespaceBeforeCaseDefaultColon,-3
+WhitespaceAround,-4
+EmptyLineSeparator,2
+AvoidEscapedUnicodeCharacters,11
+Indentation,51
+Path: IllegalInstantiation/InputIllegalInstantiationSemantic2.java
+EmptyLineSeparator,4
+WhitespaceAround,2
+LeftCurly,-7
+Indentation,79
+Path: RightCurly/InputRightCurlyWithEmoji.java
+RightCurlySame,-3
+EmptyLineSeparator,1
+AvoidEscapedUnicodeCharacters,16
+MethodName,1
+Indentation,67
+Path: CustomImportOrder/InputCustomImportOrderPossibleIndexOutOfBoundsException.java
+Indentation,3
+Path: ArrayTrailingComma/InputArrayTrailingCommaAlwaysDemandTrailingComma.java
+Indentation,26
+Path: HideUtilityClassConstructor/InputHideUtilityClassConstructorDesignForExtension.java
+LeftCurly,-1
+NoWhitespaceBefore,2
+Indentation,73
+Path: EmptyStatement/InputEmptyStatement.java
+Indentation,31
+Path: OperatorWrap/InputOperatorWrapEol.java
+EmptyBlock,1
+WhitespaceAround,-6
+EmptyLineSeparator,1
+Indentation,30
+OperatorWrap,-1
+Path: NonEmptyAtclauseDescription/InputNonEmptyAtclauseDescriptionOne.java
+Indentation,21
+Path: WhitespaceAround/InputWhitespaceAroundAllowEmptyLambdaExpressions.java
+EmptyLineSeparator,1
+MethodName,5
+Indentation,21
+Path: LeftCurly/InputLeftCurlyTestNewLineOptionWithLambda.java
+EmptyLineSeparator,1
+MethodName,3
+Indentation,16
+Path: LeftCurly/InputLeftCurlyIgnoreEnumsOptTrue.java
+EmptyLineSeparator,-1
+NoWhitespaceBefore,8
+Indentation,21
+Path: ModifiedControlVariable/InputModifiedControlVariableEnhancedForLoopVariable.java
+Indentation,9
+Path: FinalClass/InputFinalClassAnnotation.java
+Indentation,15
+Path: MultipleStringLiterals/InputMultipleStringLiterals6.java
+EmptyLineSeparator,1
+Indentation,22
+Path: AbbreviationAsWordInName/InputAbbreviationAsWordInNameReceiver.java
+Indentation,10
+Path: AbstractClassName/InputAbstractClassNameFormerFalsePositive.java
+OneTopLevelClass,-5
+AbbreviationAsWordInName,-7
+Indentation,3
+Path: JavadocVariable/InputJavadocVariableInner2.java
+EmptyLineSeparator,2
+WhitespaceAround,1
+NoWhitespaceBefore,2
+Indentation,35
+Path: AnnotationUseStyle/InputAnnotationUseStyleWithTrailingCommaNever.java
+WhitespaceAround,1
+OneTopLevelClass,-2
+InvalidJavadocPosition,-1
+NoWhitespaceBefore,2
+Indentation,11
+Path: PackageName/InputPackageNameSimple1.java
+LineLength,1
+LocalVariableName,-1
+SummaryJavadoc,-4
+OneTopLevelClass,-2
+Indentation,48
+Path: AbbreviationAsWordInName/InputAbbreviationAsWordInNameType5.java
+LocalVariableName,-1
+MultipleVariableDeclarations,-1
+OneTopLevelClass,-22
+AbbreviationAsWordInName,-13
+Indentation,3
+Path: LeftCurly/InputLeftCurlyTestCoverageIncrease.java
+Indentation,46
+Path: CustomImportOrder/InputCustomImportOrder_MultiplePatternMatches2.java
+Indentation,3
+Path: MissingJavadocMethod/InputMissingJavadocMethodNoJavadoc3.java
+EmptyLineSeparator,4
+OneTopLevelClass,-1
+LeftCurly,-1
+Indentation,64
+Path: WhitespaceAround/InputWhitespaceAroundAllowEmptyTypesAndNonEmptyClasses.java
+EmptyLineSeparator,7
+OneTopLevelClass,-1
+MemberName,-1
+Indentation,54
+Path: NeedBraces/InputNeedBracesSingleLineStatements.java
+OneStatementPerLine,3
+EmptyLineSeparator,2
+Indentation,110
+Path: RegexpSinglelineJava/InputRegexpSinglelineJavaSemantic6.java
+UpperEll,-1
+EmptyBlock,2
+EmptyLineSeparator,6
+WhitespaceAround,2
+LeftCurly,-8
+Indentation,106
+EmptyCatchBlock,2
+Path: MissingOverride/InputMissingOverrideBadOverrideFromObject.java
+TypeName,-1
+OneTopLevelClass,-2
+InvalidJavadocPosition,-2
+Indentation,16
+Path: AbbreviationAsWordInName/InputAbbreviationAsWordInNameIgnoreFinal.java
+MultipleVariableDeclarations,-1
+ModifierOrder,1
+EmptyLineSeparator,2
+Indentation,133
+Path: MissingJavadocType/InputMissingJavadocTypeScopeInnerInterfaces2.java
+LeftCurly,-5
+Indentation,21
+Path: MissingJavadocType/InputMissingJavadocTypeTags.java
+EmptyLineSeparator,-1
+OneTopLevelClass,-4
+SummaryJavadoc,-25
+LeftCurly,-3
+ParameterName,-15
+MemberName,-1
+NonEmptyAtclauseDescription,-3
+JavadocParagraph,-2
+Path: AnnotationLocation/InputAnnotationLocationInterface.java
+OneTopLevelClass,-2
+ParenPad,-1
+Indentation,4
+Path: JavadocTagContinuationIndentation/InputJavadocTagContinuationIndentationOffset3.java
+Indentation,6
+Path: EmptyForIteratorPad/InputEmptyForIteratorPadWithEmoji.java
+LineLength,2
+AvoidEscapedUnicodeCharacters,8
+Indentation,19
+Path: ThrowsCount/InputThrowsCountMethodWithAnnotation.java
+LineLength,1
+OneTopLevelClass,-1
+Indentation,6
+Path: NonEmptyAtclauseDescription/InputNonEmptyAtclauseDescriptionTwo.java
+Indentation,18
+Path: LeftCurly/InputLeftCurlyTestFirstLine.java
+Indentation,3
+Path: ParameterName/InputParameterNameReceiver.java
+Indentation,10
+Path: MissingJavadocMethod/InputMissingJavadocMethod_02.java
+EmptyLineSeparator,-3
+Indentation,23
+Path: CustomImportOrder/InputCustomImportOrder_MultiplePatternMultipleImport.java
+Indentation,3
+Path: UnusedLocalVariable/InputUnusedLocalVariableEnum.java
+TypeName,-1
+MultipleVariableDeclarations,-1
+WhitespaceAround,-14
+WhitespaceAfter,1
+EmptyLineSeparator,3
+OneTopLevelClass,-1
+MethodParamPad,2
+NoWhitespaceBefore,1
+Indentation,68
+Path: ThrowsCount/InputThrowsCount3.java
+LineLength,4
+OneTopLevelClass,-1
+Indentation,17
+Path: MethodName/InputMethodNameOverriddenMethods.java
+OneTopLevelClass,-1
+MethodName,-2
+AbbreviationAsWordInName,-2
+Indentation,7
+Path: EmptyBlock/InputEmptyBlockCase.java
+Indentation,59
+Path: ImportOrder/InputImportOrder_Above.java
+Indentation,3
+Path: InterfaceTypeParameterName/InputInterfaceTypeParameterName.java
+OneTopLevelClass,-6
+ClassTypeParameterName,-3
+MethodTypeParameterName,-4
+Indentation,7
+InterfaceTypeParameterName,-1
+Path: RegexpSinglelineJava/InputRegexpSinglelineJavaTrailingComment5.java
+EmptyLineSeparator,1
+WhitespaceAround,1
+Indentation,13
+Path: RightCurly/InputRightCurlyTestSameNewTokens.java
+NoWhitespaceBefore,4
+Indentation,28
+Path: HiddenField/InputHiddenField6.java
+EmptyLineSeparator,2
+SummaryJavadoc,-14
+OneTopLevelClass,-13
+LeftCurly,-7
+ParameterName,-1
+MemberName,-5
+Indentation,28
+OverloadMethodsDeclarationOrder,-1
+Path: HiddenField/InputHiddenField4.java
+EmptyLineSeparator,2
+SummaryJavadoc,-14
+OneTopLevelClass,-13
+LeftCurly,-5
+ParameterName,-1
+MemberName,-5
+Indentation,31
+OverloadMethodsDeclarationOrder,-1
+Path: SuperClone/InputSuperCloneMethodReference.java
+MethodName,2
+Indentation,21
+Path: ImportOrder/InputImportOrder_WildcardUnspecified.java
+Indentation,3
+Path: NoWhitespaceBefore/InputNoWhitespaceBeforeAtStartOfTheLine.java
+MethodName,1
+Indentation,14
+Path: JavadocTagContinuationIndentation/InputJavadocTagContinuationIndentationBlockTag.java
+LineLength,3
+Indentation,21
+Path: ParameterName/InputParameterNameOne.java
+LineLength,1
+LocalVariableName,-1
+SummaryJavadoc,-4
+OneTopLevelClass,-2
+LeftCurly,-5
+Indentation,37
+Path: MemberName/InputMemberName5.java
+EmptyLineSeparator,1
+Indentation,11
+Path: AtclauseOrder/InputAtclauseOrderWithAnnotationsOutsideJavadoc.java
+OneTopLevelClass,-4
+Indentation,9
+Path: WhitespaceAround/InputWhitespaceAroundCatch.java
+Indentation,35
+EmptyCatchBlock,1
+Path: JavadocStyle/InputJavadocStyleHtmlComment.java
+LeftCurly,-1
+Indentation,13
+Path: MissingJavadocMethod/InputMissingJavadocMethodPublicOnly2.java
+WhitespaceAround,2
+LeftCurly,-2
+Indentation,46
+Path: ParameterName/InputParameterNameOverrideAnnotationOne.java
+Indentation,22
+Path: AnnotationLocation/InputAnnotationLocationCustomAnnotationsDeclared.java
+OneTopLevelClass,-3
+Indentation,7
+Path: ImportOrder/InputImportOrder_Wildcard.java
+Indentation,3
+Path: ParameterName/InputParameterNameCatchOnly.java
+LeftCurly,-1
+Indentation,17
+Path: JavadocVariable/InputJavadocVariableNoJavadoc5.java
+EmptyLineSeparator,4
+OneTopLevelClass,-1
+LeftCurly,-1
+Indentation,64
+Path: DeclarationOrder/InputDeclarationOrder.java
+EmptyLineSeparator,2
+OneTopLevelClass,-1
+LeftCurly,-2
+MemberName,-2
+Indentation,44
+Path: EqualsAvoidNull/InputEqualsAvoidNull.java
+FallThrough,-2
+LocalVariableName,-1
+EmptyLineSeparator,-2
+MissingSwitchDefault,-1
+OneTopLevelClass,-7
+MemberName,-1
+NeedBraces,-1
+Indentation,93
+Path: CatchParameterName/InputCatchParameterName.java
+EmptyLineSeparator,1
+Indentation,48
+EmptyCatchBlock,6
+Path: AnnotationUseStyle/InputAnnotationUseStyleWithTrailingComma.java
+WhitespaceAround,1
+OneTopLevelClass,-2
+InvalidJavadocPosition,-1
+NoWhitespaceBefore,2
+Indentation,11
+Path: EmptyCatchBlock/InputEmptyCatchBlockDefault2.java
+InvalidJavadocPosition,-1
+Indentation,173
+EmptyCatchBlock,11
+Path: CatchParameterName/InputCatchParameterNameSimple.java
+LineLength,1
+LocalVariableName,-1
+SummaryJavadoc,-4
+OneTopLevelClass,-2
+LeftCurly,-1
+Indentation,46
+Path: JavadocStyle/InputJavadocStyle8.java
+LineLength,1
+EmptyLineSeparator,-4
+JavadocMethod,4
+LeftCurly,-5
+ClassTypeParameterName,-1
+InvalidJavadocPosition,-1
+MethodTypeParameterName,-3
+NoWhitespaceBefore,2
+Indentation,104
+Path: SingleSpaceSeparator/InputSingleSpaceSeparatorNoErrors.java
+EmptyLineSeparator,1
+Indentation,17
+Path: InnerTypeLast/InputInnerTypeLastClassCtorsInitBlocks.java
+OneTopLevelClass,-2
+Indentation,8
+Path: CatchParameterName/InputCatchParameterName3.java
+EmptyLineSeparator,1
+Indentation,48
+EmptyCatchBlock,5
+Path: WhitespaceAround/InputWhitespaceAroundDoWhile.java
+Indentation,9
+Path: JavadocParagraph/InputJavadocParagraphIncorrect2.java
+EmptyLineSeparator,1
+WhitespaceAround,1
+Indentation,17
+Path: IllegalType/InputIllegalTypeTestAbstractClassNamesFalse.java
+EmptyLineSeparator,1
+Indentation,29
+Path: WhitespaceAround/InputWhitespaceAroundEmptyTypesAndCycles.java
+EmptyLineSeparator,1
+OneTopLevelClass,-7
+Indentation,20
+Path: SingleLineJavadoc/InputSingleLineJavadocIgnoredTags.java
+Indentation,31
+Path: CustomImportOrder/InputCustomImportOrder_MultiplePatternMatches.java
+Indentation,3
+Path: AbbreviationAsWordInName/InputAbbreviationAsWordInNameIgnore.java
+MultipleVariableDeclarations,-1
+ModifierOrder,1
+EmptyLineSeparator,2
+Indentation,148
+Path: ReturnCount/InputReturnCountLambda.java
+LineLength,1
+OneStatementPerLine,5
+EmptyLineSeparator,1
+WhitespaceAfter,1
+MethodName,9
+ParenPad,1
+Indentation,51
+Path: IllegalType/InputIllegalTypeTestGenerics.java
+EmptyLineSeparator,1
+OneTopLevelClass,-3
+ClassTypeParameterName,-1
+MethodTypeParameterName,-1
+Indentation,24
+Path: SingleSpaceSeparator/InputSingleSpaceSeparatorMinColumnNo.java
+EmptyLineSeparator,1
+Indentation,4
+Path: MissingJavadocMethod/InputMissingJavadocMethodInterfacePrivateMethod.java
+Indentation,2
+Path: OperatorWrap/InputOperatorWrapNl.java
+EmptyBlock,1
+WhitespaceAround,-6
+EmptyLineSeparator,1
+ParenPad,-1
+Indentation,30
+Path: NPathComplexity/InputNPathComplexityDefault2.java
+LineLength,2
+EmptyBlock,4
+WhitespaceAround,-4
+EmptyLineSeparator,2
+WhitespaceAfter,6
+Indentation,95
+Path: JavadocStyle/InputJavadocStyleFirstSentenceThree.java
+JavadocMethod,4
+ClassTypeParameterName,-1
+LeftCurly,-4
+MethodTypeParameterName,-3
+Indentation,25
+Path: RegexpSinglelineJava/InputRegexpSinglelineJavaTrailingComment10.java
+EmptyLineSeparator,1
+WhitespaceAround,1
+Indentation,13
+Path: IllegalTokenText/InputIllegalTokenTextTokens4.java
+Indentation,22
+Path: MethodParamPad/InputMethodParamPad.java
+LeftCurly,-3
+Indentation,42
+Path: ImportOrder/InputImportOrder_HonorsTokensProperty.java
+Indentation,3
+Path: EqualsHashCode/InputEqualsHashCodeNoEquals.java
+Indentation,6
+Path: EmptyBlock/InputEmptyBlockSemanticStatement.java
+UpperEll,-1
+EmptyBlock,4
+EmptyLineSeparator,5
+Indentation,53
+Path: NoWhitespaceBefore/InputNoWhitespaceBeforeDefault.java
+TypeName,-2
+EmptyBlock,1
+MultipleVariableDeclarations,-2
+WhitespaceAfter,4
+WhitespaceAround,3
+OneTopLevelClass,-2
+AbbreviationAsWordInName,-1
+OverloadMethodsDeclarationOrder,-1
+Indentation,95
+ArrayTypeStyle,-1
+Path: AtclauseOrder/InputAtclauseOrderCorrect.java
+EmptyLineSeparator,1
+WhitespaceAround,1
+OneTopLevelClass,-2
+Indentation,50
