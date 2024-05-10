@@ -57,7 +57,7 @@ First use initEnv defined in Utility.java, then use the Schedule.java to select 
 ```java
 Utility.initEnv();
 Schedule schedule = Schedule.getInstance();
-schedule.runDifferentialTesting();
+schedule.runInjectionChecker();
 ```
 
 We have provided a shell script for running the project, you can use this file `./run.sh` to assist running AnnaTester.
